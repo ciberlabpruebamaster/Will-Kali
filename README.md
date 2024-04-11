@@ -98,192 +98,192 @@ Se describen herramientas como Greynoise y FOFA, que ofrecen funcionalidades par
 # 3. HERRAMIENTAS DE ANÁLISIS ONLINE
 Esta parte destaca una serie de herramientas en línea que son útiles para analizar y escanear URLs en busca de posibles amenazas de seguridad, así como para obtener información detallada sobre direcciones IP y dominios en línea. Aquí están las herramientas mencionadas:
 ### 3.1. urlscan.io
-•	Herramienta en línea para analizar y escanear URLs en busca de contenido malicioso, scripts sospechosos y otras amenazas de seguridad.
-•	Características incluyen análisis de contenido, verificación de la reputación del dominio e IP, captura de pantalla y detalles detallados del análisis realizado.
+- Herramienta en línea para analizar y escanear URLs en busca de contenido malicioso, scripts sospechosos y otras amenazas de seguridad.
+- Características incluyen análisis de contenido, verificación de la reputación del dominio e IP, captura de pantalla y detalles detallados del análisis realizado.
 ### 3.2. crt.sh
-•	Plataforma que proporciona acceso a registros de certificados SSL/TLS utilizados para establecer conexiones seguras en línea.
-•	Funciones incluyen búsqueda de certificados, historial de certificados y análisis de seguridad de sitios web.
+- Plataforma que proporciona acceso a registros de certificados SSL/TLS utilizados para establecer conexiones seguras en línea.
+- Funciones incluyen búsqueda de certificados, historial de certificados y análisis de seguridad de sitios web.
 ### 3.3. ping.pe
-•	Servicio que permite a los usuarios realizar pruebas de ping a direcciones IP o nombres de dominio desde múltiples ubicaciones en todo el mundo.
-•	Útil para evaluar la latencia y la estabilidad de la conexión a una dirección IP o dominio desde diferentes ubicaciones geográficas.
+- Servicio que permite a los usuarios realizar pruebas de ping a direcciones IP o nombres de dominio desde múltiples ubicaciones en todo el mundo.
+- Útil para evaluar la latencia y la estabilidad de la conexión a una dirección IP o dominio desde diferentes ubicaciones geográficas.
 ### 3.4. web-check.xyz
-•	Herramienta OSINT todo en uno para verificar rápidamente los datos de un sitio web, incluyendo información de IP, cadena SSL, registros DNS, cookies, encabezados, métricas de calidad y más.
+- Herramienta OSINT todo en uno para verificar rápidamente los datos de un sitio web, incluyendo información de IP, cadena SSL, registros DNS, cookies, encabezados, métricas de calidad y más.
 ### 3.5. app.netlas.io
-•	Plataforma que proporciona herramientas para la investigación de seguridad y la recopilación de datos relacionados con la infraestructura de Internet.
-•	Permite a los usuarios obtener información detallada sobre un nombre de dominio o una dirección IP, incluidos registros DNS, información de geolocalización y detalles del propietario.
+- Plataforma que proporciona herramientas para la investigación de seguridad y la recopilación de datos relacionados con la infraestructura de Internet.
+- Permite a los usuarios obtener información detallada sobre un nombre de dominio o una dirección IP, incluidos registros DNS, información de geolocalización y detalles del propietario.
 ### 3.6. ipinfo.io y myip.ms
-•	Ofrecen información detallada sobre direcciones IP, incluyendo ubicación geográfica aproximada, ISP, país, ciudad, código postal, latitud, longitud y más.
-•	Además, ipinfo.io proporciona una API para integrar la funcionalidad de consulta de IP en aplicaciones y sistemas.
+- Ofrecen información detallada sobre direcciones IP, incluyendo ubicación geográfica aproximada, ISP, país, ciudad, código postal, latitud, longitud y más.
+- Además, ipinfo.io proporciona una API para integrar la funcionalidad de consulta de IP en aplicaciones y sistemas.
 ### 3.7. grabify.link e iplogger.org
-•	Servicios de acortamiento de URL con análisis avanzados para el tráfico a través de sus enlaces.
-•	Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
+- Servicios de acortamiento de URL con análisis avanzados para el tráfico a través de sus enlaces.
+- Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
 
 # 4. WHOIS Y DOMINIOS
 En esta sección, se presentan diversas herramientas y servicios en línea relacionados con la consulta de datos WHOIS para nombres de dominio y direcciones IP, así como otras funcionalidades relacionadas con la infraestructura de Internet y el análisis de amenazas. A continuación, se detallan las herramientas mencionadas:
 ### 4.1. whois.whoisxmlapi.com
-•	Proporciona acceso a datos de WHOIS para nombres de dominio y direcciones IP.
-•	Permite buscar información sobre la titularidad de un nombre de dominio, incluyendo detalles sobre el registrante, la fecha de registro y vencimiento, servidores de nombres, información de contacto, entre otros.
+- Proporciona acceso a datos de WHOIS para nombres de dominio y direcciones IP.
+- Permite buscar información sobre la titularidad de un nombre de dominio, incluyendo detalles sobre el registrante, la fecha de registro y vencimiento, servidores de nombres, información de contacto, entre otros.
 ### 4.2. whois.domaintools.com
-•	Ofrece acceso a información de WHOIS para nombres de dominio, permitiendo a los usuarios buscar detalles como el registrante, la fecha de registro, vencimiento, registrador, servidores de nombres y más.
-•	También proporciona herramientas adicionales para investigar la historia de un dominio y realizar análisis avanzados sobre su propiedad y uso.
+- Ofrece acceso a información de WHOIS para nombres de dominio, permitiendo a los usuarios buscar detalles como el registrante, la fecha de registro, vencimiento, registrador, servidores de nombres y más.
+- También proporciona herramientas adicionales para investigar la historia de un dominio y realizar análisis avanzados sobre su propiedad y uso.
 ### 4.3. whoxy.com
-•	Servicio en línea que brinda acceso a datos de WHOIS para nombres de dominio, incluyendo detalles sobre el registrante, fecha de registro, vencimiento, registrador, servidores de nombres, y más.
-•	Ofrece características adicionales como historial de WHOIS, búsqueda inversa de WHOIS y búsqueda masiva de WHOIS.
+- Servicio en línea que brinda acceso a datos de WHOIS para nombres de dominio, incluyendo detalles sobre el registrante, fecha de registro, vencimiento, registrador, servidores de nombres, y más.
+- Ofrece características adicionales como historial de WHOIS, búsqueda inversa de WHOIS y búsqueda masiva de WHOIS.
 ### 4.4. nslookup.io
-•	Ofrece una variedad de herramientas de redes y DNS.
-•	Permite obtener información sobre la configuración de DNS y la infraestructura de red asociada con una dirección IP, nombre de dominio o registro DNS específico.
+- Ofrece una variedad de herramientas de redes y DNS.
+- Permite obtener información sobre la configuración de DNS y la infraestructura de red asociada con una dirección IP, nombre de dominio o registro DNS específico.
 ### 4.5. onyphe.io
-•	Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
-•	Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
+- Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
+- Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
 # 5. BÚSQUEDA PERSONAS Y PERFILES
 En esta sección se presentan herramientas y plataformas en línea que permiten buscar información sobre personas y perfiles en internet. A continuación, se detallan las herramientas mencionadas:
 ### 5.1. search4faces.com
-•	Es un formulario de búsqueda de fotos de perfil de VKontakte.
-•	Utiliza reconocimiento facial, inteligencia artificial y aprendizaje automático para realizar una búsqueda inversa de imágenes.
-•	Proporciona enlaces al perfil de la persona encontrada en redes sociales como vk.com, ok.ru, entre otras.
+- Es un formulario de búsqueda de fotos de perfil de VKontakte.
+- Utiliza reconocimiento facial, inteligencia artificial y aprendizaje automático para realizar una búsqueda inversa de imágenes.
+- Proporciona enlaces al perfil de la persona encontrada en redes sociales como vk.com, ok.ru, entre otras.
 ### 5.2. webmii.com
-•	Proporciona información sobre la presencia en internet de una persona o entidad.
-•	Recopila datos de diversas fuentes en línea, como redes sociales, blogs, sitios web personales y profesionales, para organizarlos en un perfil de usuario.
-•	Permite buscar un resumen de la presencia en línea de una persona, incluyendo enlaces a perfiles en redes sociales, menciones en blogs y más.
+- Proporciona información sobre la presencia en internet de una persona o entidad.
+- Recopila datos de diversas fuentes en línea, como redes sociales, blogs, sitios web personales y profesionales, para organizarlos en un perfil de usuario.
+- Permite buscar un resumen de la presencia en línea de una persona, incluyendo enlaces a perfiles en redes sociales, menciones en blogs y más.
 ### 5.3. spokeo.com
-•	Ofrece acceso a información pública y datos de búsqueda de personas.
-•	Recopila datos de fuentes públicas como registros gubernamentales, redes sociales y directorios telefónicos para crear perfiles de personas.
-•	Proporciona detalles de contacto, historial de direcciones, perfiles en redes sociales, historial laboral y educativo, historial criminal (si está disponible públicamente), fotos y videos asociados con la persona.
+- Ofrece acceso a información pública y datos de búsqueda de personas.
+- Recopila datos de fuentes públicas como registros gubernamentales, redes sociales y directorios telefónicos para crear perfiles de personas.
+- Proporciona detalles de contacto, historial de direcciones, perfiles en redes sociales, historial laboral y educativo, historial criminal (si está disponible públicamente), fotos y videos asociados con la persona.
 Estas herramientas pueden ser útiles para buscar información sobre individuos, monitorear la reputación en línea y obtener detalles de contacto, entre otros usos. 
 # 6. CACHE E HISTÓRICOS
 En esta sección, se presentan herramientas y servicios en línea relacionados con el acceso a versiones en caché de páginas web y la preservación de la historia de internet. A continuación, se detallan las herramientas mencionadas:
 ### 6.1. cachedview.nl
-•	Ofrece acceso a versiones en caché de páginas web.
-•	Permite a los usuarios ingresar una URL de página web y buscar versiones en caché disponibles.
-•	Proporciona acceso a versiones anteriores de páginas web, útil cuando una página ha sido eliminada o actualizada.
-•	Puede servir como una herramienta de recuperación de contenido para acceder a páginas web que de otro modo no estarían disponibles.
+- Ofrece acceso a versiones en caché de páginas web.
+- Permite a los usuarios ingresar una URL de página web y buscar versiones en caché disponibles.
+- Proporciona acceso a versiones anteriores de páginas web, útil cuando una página ha sido eliminada o actualizada.
+- Puede servir como una herramienta de recuperación de contenido para acceder a páginas web que de otro modo no estarían disponibles.
 ### 6.2. archive.org (The Wayback Machine)
-•	Proyecto sin ánimo de lucro dedicado a preservar una copia de páginas web pasadas y presentes de internet.
-•	Permite a los usuarios buscar y ver versiones archivadas de sitios web en diferentes momentos a lo largo del tiempo a través de la Wayback Machine.
-•	Alberga una amplia colección de archivos multimedia, como música, películas, libros, imágenes y programas de televisión, disponibles de forma gratuita.
-•	Hospeda varios proyectos adicionales, como el Proyecto Gutenberg, el Archivo de Audio y el Archivo de Películas.
-•	Financiado por donaciones y apoyado por voluntarios que contribuyen con fondos y ayudan con la digitalización y catalogación de materiales.
+- Proyecto sin ánimo de lucro dedicado a preservar una copia de páginas web pasadas y presentes de internet.
+- Permite a los usuarios buscar y ver versiones archivadas de sitios web en diferentes momentos a lo largo del tiempo a través de la Wayback Machine.
+- Alberga una amplia colección de archivos multimedia, como música, películas, libros, imágenes y programas de televisión, disponibles de forma gratuita.
+- Hospeda varios proyectos adicionales, como el Proyecto Gutenberg, el Archivo de Audio y el Archivo de Películas.
+- Financiado por donaciones y apoyado por voluntarios que contribuyen con fondos y ayudan con la digitalización y catalogación de materiales.
 Estas herramientas son útiles para acceder a versiones anteriores de páginas web, recuperar contenido eliminado o actualizado, y preservar la historia de internet para futuras consultas
 
 # 7. LEAKS Y FUGAS
 En esta sección, se presentan herramientas y servicios en línea relacionados con la detección y verificación de fugas de datos. A continuación, se describen las herramientas mencionadas:
 ### 7.1. pastebin.com
-•	Es un sitio web que permite a los usuarios compartir texto de forma anónima.
-•	Los usuarios pueden pegar cualquier tipo de texto en el sitio y generar un enlace único para compartirlo con otros.
-•	Ofrece configuraciones de privacidad para los paste, que pueden ser públicos, no listados o privados.
-•	Permite establecer una duración para los paste, después de la cual el contenido se eliminará automáticamente.
-•	Admite resaltado de sintaxis para varios lenguajes de programación y marcado.
-•	Proporciona funciones de búsqueda para encontrar paste existentes en el sitio web.
+- Es un sitio web que permite a los usuarios compartir texto de forma anónima.
+- Los usuarios pueden pegar cualquier tipo de texto en el sitio y generar un enlace único para compartirlo con otros.
+- Ofrece configuraciones de privacidad para los paste, que pueden ser públicos, no listados o privados.
+- Permite establecer una duración para los paste, después de la cual el contenido se eliminará automáticamente.
+- Admite resaltado de sintaxis para varios lenguajes de programación y marcado.
+- Proporciona funciones de búsqueda para encontrar paste existentes en el sitio web.
 ### 7.2. leak-lookup.com
-•	Es un servicio en línea especializado en buscar y verificar si una dirección de correo electrónico o una contraseña ha sido comprometida en una filtración de datos.
-•	Utiliza una base de datos actualizada de información filtrada y comprometida para ayudar a los usuarios a determinar si sus credenciales están en riesgo.
-•	Permite buscar direcciones de correo electrónico y contraseñas para verificar si han sido comprometidas.
-•	Proporciona información detallada sobre la filtración en la que se encontró la dirección de correo electrónico o la contraseña, incluyendo el sitio web afectado y la fecha de la filtración.
-•	Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico si se encuentra una dirección de correo electrónico asociada con una filtración de datos en el futuro.
+- Es un servicio en línea especializado en buscar y verificar si una dirección de correo electrónico o una contraseña ha sido comprometida en una filtración de datos.
+- Utiliza una base de datos actualizada de información filtrada y comprometida para ayudar a los usuarios a determinar si sus credenciales están en riesgo.
+- Permite buscar direcciones de correo electrónico y contraseñas para verificar si han sido comprometidas.
+- Proporciona información detallada sobre la filtración en la que se encontró la dirección de correo electrónico o la contraseña, incluyendo el sitio web afectado y la fecha de la filtración.
+- Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico si se encuentra una dirección de correo electrónico asociada con una filtración de datos en el futuro.
 Estas herramientas son útiles para detectar y verificar la presencia de datos filtrados, lo que ayuda a los usuarios a tomar medidas para proteger su información personal y su seguridad en línea. 
 
 # 8. LEAKS Y FUGAS
-Aquí tienes más herramientas y servicios relacionados con la detección y verificación de fugas de datos:
+Aquí hay más herramientas y servicios relacionados con la detección y verificación de fugas de datos:
 ### 8.1. haveibeenpwned.com
-•	Creado por el experto en seguridad Troy Hunt, permite a los usuarios verificar si sus direcciones de correo electrónico o contraseñas han sido comprometidas en alguna filtración de datos.
-•	Recopila datos de múltiples brechas de seguridad y permite búsquedas para determinar si los datos personales han sido comprometidos.
-•	Ofrece verificación de direcciones de correo electrónico y contraseñas.
-•	Permite a los usuarios registrarse para recibir notificaciones si su dirección de correo electrónico aparece en futuras filtraciones.
-•	Proporciona una API para que los desarrolladores integren la funcionalidad en sus aplicaciones y servicios.
-•	Ofrece recursos educativos sobre seguridad cibernética.
+- Creado por el experto en seguridad Troy Hunt, permite a los usuarios verificar si sus direcciones de correo electrónico o contraseñas han sido comprometidas en alguna filtración de datos.
+- Recopila datos de múltiples brechas de seguridad y permite búsquedas para determinar si los datos personales han sido comprometidos.
+- Ofrece verificación de direcciones de correo electrónico y contraseñas.
+- Permite a los usuarios registrarse para recibir notificaciones si su dirección de correo electrónico aparece en futuras filtraciones.
+- Proporciona una API para que los desarrolladores integren la funcionalidad en sus aplicaciones y servicios.
+- Ofrece recursos educativos sobre seguridad cibernética.
 ### 8.2. leakcheck.io
-•	Proporciona una función de verificación de direcciones de correo electrónico y contraseñas para determinar si han sido comprometidas en una filtración de datos.
-•	Utiliza una base de datos actualizada de información comprometida para ayudar a los usuarios a identificar si sus datos personales están en riesgo.
-•	Permite la verificación de direcciones de correo electrónico y contraseñas.
-•	Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico sobre futuras filtraciones.
-•	Proporciona detalles sobre la filtración en la que se encontró la dirección de correo electrónico o la contraseña.
+- Proporciona una función de verificación de direcciones de correo electrónico y contraseñas para determinar si han sido comprometidas en una filtración de datos.
+- Utiliza una base de datos actualizada de información comprometida para ayudar a los usuarios a identificar si sus datos personales están en riesgo.
+- Permite la verificación de direcciones de correo electrónico y contraseñas.
+- Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico sobre futuras filtraciones.
+- Proporciona detalles sobre la filtración en la que se encontró la dirección de correo electrónico o la contraseña.
 ### 8.3. breachdirectory.org
-•	Proporciona información sobre violaciones de datos y filtraciones de información que afectan a empresas y organizaciones en todo el mundo.
-•	Recopila datos de diversas fuentes para proporcionar una base de datos actualizada de violaciones de datos.
-•	Permite buscar información sobre violaciones de datos específicas.
-•	Proporciona detalles sobre cada violación de datos, incluyendo la fecha, el tipo de datos comprometidos y las medidas tomadas para mitigar el impacto.
-•	Ofrece la opción de suscribirse para recibir notificaciones sobre nuevas violaciones de datos.
-•	Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
+- Proporciona información sobre violaciones de datos y filtraciones de información que afectan a empresas y organizaciones en todo el mundo.
+- Recopila datos de diversas fuentes para proporcionar una base de datos actualizada de violaciones de datos.
+- Permite buscar información sobre violaciones de datos específicas.
+- Proporciona detalles sobre cada violación de datos, incluyendo la fecha, el tipo de datos comprometidos y las medidas tomadas para mitigar el impacto.
+- Ofrece la opción de suscribirse para recibir notificaciones sobre nuevas violaciones de datos.
+- Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
 Estas herramientas son útiles para ayudar a los usuarios a proteger su información personal y su seguridad en línea al verificar si han sido afectados por filtraciones de datos
 # 9. EMAILS 
 Aquí tienes más información sobre plataformas relacionadas con la gestión de correos electrónicos y la seguridad cibernética:
 ### 9.1. hunter.io
-•	Es una plataforma en línea que proporciona herramientas y servicios para buscar y verificar direcciones de correo electrónico.
-•	Principalmente dirigida a profesionales de marketing, desarrolladores y equipos de ventas.
-•	Permite buscar direcciones de correo electrónico utilizando el nombre de dominio de una empresa específica.
-•	Ofrece una función de verificación de correo electrónico para verificar si una dirección de correo electrónico es válida y activa.
-•	Puede mostrar una lista de todas las direcciones de correo electrónico asociadas con un dominio específico.
-•	Ofrece integraciones con otras herramientas y servicios populares, como Google Sheets, Zapier y Salesforce.
-•	Proporciona una API para que los desarrolladores integren la funcionalidad en sus propias aplicaciones y servicios.
+- Es una plataforma en línea que proporciona herramientas y servicios para buscar y verificar direcciones de correo electrónico.
+- Principalmente dirigida a profesionales de marketing, desarrolladores y equipos de ventas.
+- Permite buscar direcciones de correo electrónico utilizando el nombre de dominio de una empresa específica.
+- Ofrece una función de verificación de correo electrónico para verificar si una dirección de correo electrónico es válida y activa.
+- Puede mostrar una lista de todas las direcciones de correo electrónico asociadas con un dominio específico.
+- Ofrece integraciones con otras herramientas y servicios populares, como Google Sheets, Zapier y Salesforce.
+- Proporciona una API para que los desarrolladores integren la funcionalidad en sus propias aplicaciones y servicios.
 ### 9.2. epieos.com
-•	Es una plataforma de gestión de contraseñas y seguridad cibernética diseñada para empresas y organizaciones.
-•	Ofrece un sistema centralizado para almacenar, gestionar y compartir contraseñas de forma segura dentro de una organización.
-•	Realiza auditorías de contraseñas para evaluar la fortaleza de las contraseñas utilizadas en una organización.
-•	Ayuda a implementar políticas de control de acceso para proteger sistemas y datos sensibles.
-•	Ayuda a cumplir con los requisitos regulatorios y las mejores prácticas de seguridad cibernética.
-•	Genera informes detallados sobre el estado de la seguridad de las contraseñas y análisis de tendencias.
+- Es una plataforma de gestión de contraseñas y seguridad cibernética diseñada para empresas y organizaciones.
+- Ofrece un sistema centralizado para almacenar, gestionar y compartir contraseñas de forma segura dentro de una organización.
+- Realiza auditorías de contraseñas para evaluar la fortaleza de las contraseñas utilizadas en una organización.
+- Ayuda a implementar políticas de control de acceso para proteger sistemas y datos sensibles.
+- Ayuda a cumplir con los requisitos regulatorios y las mejores prácticas de seguridad cibernética.
+- Genera informes detallados sobre el estado de la seguridad de las contraseñas y análisis de tendencias.
 Estas plataformas son útiles para gestionar y proteger las comunicaciones por correo electrónico, así como para garantizar la seguridad de las contraseñas y datos sensibles dentro de una organización.
 ### 9.3. osint.industries
-•	Una poderosa herramienta online de investigaciones OSINT que enriquece investigaciones con información de diversas fuentes abiertas.
-•	Permite recopilar y analizar extensas cantidades de información de bases de datos públicas, redes sociales, blogs, foros y otros sitios web relevantes.
-•	Ofrece algoritmos avanzados para realizar búsquedas sofisticadas y filtrar resultados de manera rápida y precisa.
-•	Presenta los datos de forma clara y concisa mediante gráficos interactivos, mapas geográficos y diagramas.
-•	Ayuda a comprender mejor la información obtenida y detectar patrones o relaciones ocultas, facilitando el análisis.
-•	Es especialmente útil para profesionales de la inteligencia abierta y para llevar a cabo investigaciones exhaustivas.
+- Una poderosa herramienta online de investigaciones OSINT que enriquece investigaciones con información de diversas fuentes abiertas.
+- Permite recopilar y analizar extensas cantidades de información de bases de datos públicas, redes sociales, blogs, foros y otros sitios web relevantes.
+- Ofrece algoritmos avanzados para realizar búsquedas sofisticadas y filtrar resultados de manera rápida y precisa.
+- Presenta los datos de forma clara y concisa mediante gráficos interactivos, mapas geográficos y diagramas.
+- Ayuda a comprender mejor la información obtenida y detectar patrones o relaciones ocultas, facilitando el análisis.
+- Es especialmente útil para profesionales de la inteligencia abierta y para llevar a cabo investigaciones exhaustivas.
 ### 9.4. synapsint.com
-•	Una herramienta que recopila datos de un objetivo específico, como un dominio, una dirección IP o un correo electrónico, desde múltiples fuentes abiertas en Internet.
-•	Extrae información veraz de fuentes como Shodan, VirusTotal y los Registros Regionales de Internet.
-•	Ofrece una interfaz amigable que permite seleccionar el tipo de objetivo, como dominios, direcciones IP, teléfonos, cuentas de redes sociales, entre otros.
-•	Proporciona información detallada sobre el objetivo seleccionado, lo que incluye datos relevantes para la investigación.
+- Una herramienta que recopila datos de un objetivo específico, como un dominio, una dirección IP o un correo electrónico, desde múltiples fuentes abiertas en Internet.
+- Extrae información veraz de fuentes como Shodan, VirusTotal y los Registros Regionales de Internet.
+- Ofrece una interfaz amigable que permite seleccionar el tipo de objetivo, como dominios, direcciones IP, teléfonos, cuentas de redes sociales, entre otros.
+- Proporciona información detallada sobre el objetivo seleccionado, lo que incluye datos relevantes para la investigación.
 ### 9.5. Otras plataformas de búsqueda de emails:
-•	gmail-osint.activetk.jp: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico de Gmail.
-•	mailtester.com: Ofrece herramientas para verificar la validez y la existencia de direcciones de correo electrónico.
-•	defastra.com: Plataforma para buscar información y convertirla en inteligencia a través de herramientas online en fuentes abiertas.
-•	seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
+- gmail-osint.activetk.jp: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico de Gmail.
+- mailtester.com: Ofrece herramientas para verificar la validez y la existencia de direcciones de correo electrónico.
+- defastra.com: Plataforma para buscar información y convertirla en inteligencia a través de herramientas online en fuentes abiertas.
+- seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
 # 10. Análisis de Cabeceras de Correo
-•	Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
-•	Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
-•	Algunas de estas herramientas incluyen:
-•	toolbox.googleapps.com: Herramienta de Google para analizar encabezados de mensajes de correo electrónico.
-•	mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
-•	email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
+- Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
+- Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
+Algunas de estas herramientas incluyen:
+- toolbox.googleapps.com: Herramienta de Google para analizar encabezados de mensajes de correo electrónico.
+- mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
+- email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
 # 11. Búsqueda Inversa - Geolocalización
-•	Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
-•	Algunas de estas herramientas son:
-•	osm-search.bellingcat.com: Desarrollada por Bellingcat para buscar información geográfica utilizando OpenStreetMap como base, útil para investigaciones periodísticas y análisis de conflictos.
-•	geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
-•	geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
+- Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
+Algunas de estas herramientas son:
+- osm-search.bellingcat.com: Desarrollada por Bellingcat para buscar información geográfica utilizando OpenStreetMap como base, útil para investigaciones periodísticas y análisis de conflictos.
+- geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
+- geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
 # 12. SOCK PUPPET Y HUELLA DIGITAL
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
 #### 12.1. Creación de Perfiles "Fake"
-•	Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
-•	Fake Name Generator: Proporciona nombres, direcciones, números de teléfono y otros detalles para perfiles falsos.
-•	This Person Does Not Exist: Genera imágenes realistas de personas que no existen.
-•	Photopea: Herramienta de edición de fotos para manipular imágenes.
+- Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
+- Fake Name Generator: Proporciona nombres, direcciones, números de teléfono y otros detalles para perfiles falsos.
+- This Person Does Not Exist: Genera imágenes realistas de personas que no existen.
+- Photopea: Herramienta de edición de fotos para manipular imágenes.
 #### 12.2. Teléfonos Temporales
-•	HS3X: Proporciona números de teléfono temporales para verificación y comunicación temporal.
-•	SMSGet: Ofrece números de teléfono virtuales para recibir mensajes temporales.
+- HS3X: Proporciona números de teléfono temporales para verificación y comunicación temporal.
+- SMSGet: Ofrece números de teléfono virtuales para recibir mensajes temporales.
 •	Receive SMS Online: Permite recibir mensajes en números temporales en línea.
 #### 12.3. Huella Digital
-•	AmIUnique: Herramienta para comprobar la unicidad de la huella digital de un navegador.
-•	Cover Your Tracks (EFF): Ofrece herramientas para aumentar la privacidad y reducir la huella digital en línea.
-•	Social Media Leak: Verifica qué información personal se puede filtrar desde las redes sociales.
-•	BrowserLeaks: Detecta información técnica que puede ser filtrada por el navegador web.
+- AmIUnique: Herramienta para comprobar la unicidad de la huella digital de un navegador.
+- Cover Your Tracks (EFF): Ofrece herramientas para aumentar la privacidad y reducir la huella digital en línea.
+- Social Media Leak: Verifica qué información personal se puede filtrar desde las redes sociales.
+- BrowserLeaks: Detecta información técnica que puede ser filtrada por el navegador web.
 #### 12.4. Correos Electrónicos Temporales
 •	Email On Deck: Ofrece direcciones de correo electrónico temporales para verificación en línea.
 •	Temp Mail: Proporciona correos electrónicos temporales para uso temporal.
 •	TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
 #### 12.5. Motores de Búsqueda
-•	Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
-•	Ask: Ofrece resultados de búsqueda y respuestas a preguntas específicas.
-•	DuckDuckGo: Un motor de búsqueda centrado en la privacidad que no rastrea las actividades del usuario.
-•	Yandex: Un motor de búsqueda popular en Rusia que ofrece resultados precisos en varios idiomas.
-•	Carrot2: Un motor de búsqueda que organiza los resultados en grupos temáticos.
-•	Qwant: Un motor de búsqueda que respeta la privacidad del usuario y no rastrea las búsquedas.
-•	Gibiru: Un motor de búsqueda que prioriza la privacidad y la no censura en línea.
-•	Ecosia: Un motor de búsqueda que utiliza sus ganancias para plantar árboles en todo el mundo.
-•	MillionShort: Un motor de búsqueda que permite a los usuarios eliminar los sitios web populares de los resultados de búsqueda.
-•	Ahmia: Un motor de búsqueda que indexa contenido en la web oscura y anónima.
+- Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
+- Ask: Ofrece resultados de búsqueda y respuestas a preguntas específicas.
+- DuckDuckGo: Un motor de búsqueda centrado en la privacidad que no rastrea las actividades del usuario.
+- Yandex: Un motor de búsqueda popular en Rusia que ofrece resultados precisos en varios idiomas.
+- Carrot2: Un motor de búsqueda que organiza los resultados en grupos temáticos.
+- Qwant: Un motor de búsqueda que respeta la privacidad del usuario y no rastrea las búsquedas.
+- Gibiru: Un motor de búsqueda que prioriza la privacidad y la no censura en línea.
+- Ecosia: Un motor de búsqueda que utiliza sus ganancias para plantar árboles en todo el mundo.
+- MillionShort: Un motor de búsqueda que permite a los usuarios eliminar los sitios web populares de los resultados de búsqueda.
+- Ahmia: Un motor de búsqueda que indexa contenido en la web oscura y anónima.
 
 # 13. THREAT INTELLIGENCE
 La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Aquí hay algunas plataformas y herramientas en línea que facilitan este proceso:
