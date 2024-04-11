@@ -96,9 +96,11 @@ Estas herramientas permiten analizar metadatos de imágenes y encontrar cámaras
 ### 2.2. INFORMACION IP + DNS ONLINE
 Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
 - https://hackertarget.com/
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/016e44ba-1287-42f1-b258-6cf8b8c60fc4)
 
 - https://www.shodan.io/
+  
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/aeff718d-c6a0-4e84-a0c1-ce2419d36f52)
 
 Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red.
