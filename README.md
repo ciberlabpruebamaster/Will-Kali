@@ -185,6 +185,8 @@ En esta sección, se presentan herramientas y servicios en línea relacionados c
 - Financiado por donaciones y apoyado por voluntarios que contribuyen con fondos y ayudan con la digitalización y catalogación de materiales.
 Estas herramientas son útiles para acceder a versiones anteriores de páginas web, recuperar contenido eliminado o actualizado, y preservar la historia de internet para futuras consultas
 
+
+
 # 7. LEAKS Y FUGAS
 En esta sección, se presentan herramientas y servicios en línea relacionados con la detección y verificación de fugas de datos. A continuación, se describen las herramientas mencionadas:
 ### 7.1. pastebin.com
@@ -201,6 +203,8 @@ En esta sección, se presentan herramientas y servicios en línea relacionados c
 - Proporciona información detallada sobre la filtración en la que se encontró la dirección de correo electrónico o la contraseña, incluyendo el sitio web afectado y la fecha de la filtración.
 - Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico si se encuentra una dirección de correo electrónico asociada con una filtración de datos en el futuro.
 Estas herramientas son útiles para detectar y verificar la presencia de datos filtrados, lo que ayuda a los usuarios a tomar medidas para proteger su información personal y su seguridad en línea. 
+
+
 
 # 8. LEAKS Y FUGAS
 Aquí hay más herramientas y servicios relacionados con la detección y verificación de fugas de datos:
