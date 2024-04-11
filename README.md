@@ -1,7 +1,7 @@
 # Will-Kali
 Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada en Debian, enfocada en mejorar las habilidades OSINT para la investigación de personas, ofreciendo herramientas especializadas en recopilar y analizar información de fuentes abiertas.
 ![imagen](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/09f031a3-92a7-4e28-a3bd-dd3be476e8bc)
-## 1. Navegadores Web
+# 1. Navegadores Web
 ![2](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1fb44977-02e7-4c63-aa60-b1cd80390ecd)
 
 Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. Para mí, por orden de importancia:
@@ -65,7 +65,7 @@ Estos 2 NAVEGADORES, al estar ambos basados en tecnología muy similar, comparte
 
 En TorBrowser, no se admiten extensiones para preservar el anonimato y la privacidad, ya que su uso podría comprometer estas características fundamentales. No son necesarias de hecho.
 
-## 2. MARCADORES PARA NAVEGADORES
+# 2. MARCADORES PARA NAVEGADORES
 En esta sección, se destaca la importancia de contar con un sistema de marcadores organizados para la navegación efectiva en el ámbito de la ciberinteligencia. Se recomienda el uso de la plataforma https://start.me/ para crear un repositorio de marcadores accesible desde cualquier navegador compatible, como Brave y Chromium. Los marcadores se organizan por familias para facilitar su acceso y utilización.
 
 ### 2.1. OSINT METADATOS ONLINE
@@ -93,7 +93,7 @@ Se mencionan varias herramientas en línea, como DNSDumpster, Netcraft y Robtex,
 ### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES
 Se describen herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
 
-### 3. HERRAMIENTAS DE ANÁLISIS ONLINE
+# 3. HERRAMIENTAS DE ANÁLISIS ONLINE
 Esta parte destaca una serie de herramientas en línea que son útiles para analizar y escanear URLs en busca de posibles amenazas de seguridad, así como para obtener información detallada sobre direcciones IP y dominios en línea. Aquí están las herramientas mencionadas:
 ### 3.1. urlscan.io
 •	Herramienta en línea para analizar y escanear URLs en busca de contenido malicioso, scripts sospechosos y otras amenazas de seguridad.
@@ -116,7 +116,7 @@ Esta parte destaca una serie de herramientas en línea que son útiles para anal
 •	Servicios de acortamiento de URL con análisis avanzados para el tráfico a través de sus enlaces.
 •	Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
 
-### 4. WHOIS Y DOMINIOS
+# 4. WHOIS Y DOMINIOS
 En esta sección, se presentan diversas herramientas y servicios en línea relacionados con la consulta de datos WHOIS para nombres de dominio y direcciones IP, así como otras funcionalidades relacionadas con la infraestructura de Internet y el análisis de amenazas. A continuación, se detallan las herramientas mencionadas:
 ### 4.1. whois.whoisxmlapi.com
 •	Proporciona acceso a datos de WHOIS para nombres de dominio y direcciones IP.
@@ -124,16 +124,16 @@ En esta sección, se presentan diversas herramientas y servicios en línea relac
 ### 4.2. whois.domaintools.com
 •	Ofrece acceso a información de WHOIS para nombres de dominio, permitiendo a los usuarios buscar detalles como el registrante, la fecha de registro, vencimiento, registrador, servidores de nombres y más.
 •	También proporciona herramientas adicionales para investigar la historia de un dominio y realizar análisis avanzados sobre su propiedad y uso.
-### 4.3. www.whoxy.com
+### 4.3. whoxy.com
 •	Servicio en línea que brinda acceso a datos de WHOIS para nombres de dominio, incluyendo detalles sobre el registrante, fecha de registro, vencimiento, registrador, servidores de nombres, y más.
 •	Ofrece características adicionales como historial de WHOIS, búsqueda inversa de WHOIS y búsqueda masiva de WHOIS.
-### 4.4. www.nslookup.io
+### 4.4. nslookup.io
 •	Ofrece una variedad de herramientas de redes y DNS.
 •	Permite obtener información sobre la configuración de DNS y la infraestructura de red asociada con una dirección IP, nombre de dominio o registro DNS específico.
-### 4.5. www.onyphe.io
+### 4.5. onyphe.io
 •	Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
 •	Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
-### 5. BÚSQUEDA PERSONAS Y PERFILES
+# 5. BÚSQUEDA PERSONAS Y PERFILES
 En esta sección se presentan herramientas y plataformas en línea que permiten buscar información sobre personas y perfiles en internet. A continuación, se detallan las herramientas mencionadas:
 ### 5.1. search4faces.com
 •	Es un formulario de búsqueda de fotos de perfil de VKontakte.
@@ -148,7 +148,7 @@ En esta sección se presentan herramientas y plataformas en línea que permiten 
 •	Recopila datos de fuentes públicas como registros gubernamentales, redes sociales y directorios telefónicos para crear perfiles de personas.
 •	Proporciona detalles de contacto, historial de direcciones, perfiles en redes sociales, historial laboral y educativo, historial criminal (si está disponible públicamente), fotos y videos asociados con la persona.
 Estas herramientas pueden ser útiles para buscar información sobre individuos, monitorear la reputación en línea y obtener detalles de contacto, entre otros usos. 
-### 6. CACHE E HISTÓRICOS
+# 6. CACHE E HISTÓRICOS
 En esta sección, se presentan herramientas y servicios en línea relacionados con el acceso a versiones en caché de páginas web y la preservación de la historia de internet. A continuación, se detallan las herramientas mencionadas:
 ### 6.1. cachedview.nl
 •	Ofrece acceso a versiones en caché de páginas web.
@@ -163,7 +163,7 @@ En esta sección, se presentan herramientas y servicios en línea relacionados c
 •	Financiado por donaciones y apoyado por voluntarios que contribuyen con fondos y ayudan con la digitalización y catalogación de materiales.
 Estas herramientas son útiles para acceder a versiones anteriores de páginas web, recuperar contenido eliminado o actualizado, y preservar la historia de internet para futuras consultas
 
-### 7. LEAKS Y FUGAS
+# 7. LEAKS Y FUGAS
 En esta sección, se presentan herramientas y servicios en línea relacionados con la detección y verificación de fugas de datos. A continuación, se describen las herramientas mencionadas:
 ### 7.1. pastebin.com
 •	Es un sitio web que permite a los usuarios compartir texto de forma anónima.
@@ -180,7 +180,7 @@ En esta sección, se presentan herramientas y servicios en línea relacionados c
 •	Ofrece la opción de suscribirse para recibir notificaciones por correo electrónico si se encuentra una dirección de correo electrónico asociada con una filtración de datos en el futuro.
 Estas herramientas son útiles para detectar y verificar la presencia de datos filtrados, lo que ayuda a los usuarios a tomar medidas para proteger su información personal y su seguridad en línea. 
 
-### 8. LEAKS Y FUGAS (Continuación)
+# 8. LEAKS Y FUGAS
 Aquí tienes más herramientas y servicios relacionados con la detección y verificación de fugas de datos:
 ### 8.1. haveibeenpwned.com
 •	Creado por el experto en seguridad Troy Hunt, permite a los usuarios verificar si sus direcciones de correo electrónico o contraseñas han sido comprometidas en alguna filtración de datos.
@@ -203,7 +203,7 @@ Aquí tienes más herramientas y servicios relacionados con la detección y veri
 •	Ofrece la opción de suscribirse para recibir notificaciones sobre nuevas violaciones de datos.
 •	Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
 Estas herramientas son útiles para ayudar a los usuarios a proteger su información personal y su seguridad en línea al verificar si han sido afectados por filtraciones de datos
-### 9. EMAILS (Continuación)
+# 9. EMAILS 
 Aquí tienes más información sobre plataformas relacionadas con la gestión de correos electrónicos y la seguridad cibernética:
 ### 9.1. hunter.io
 •	Es una plataforma en línea que proporciona herramientas y servicios para buscar y verificar direcciones de correo electrónico.
@@ -238,40 +238,40 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 •	mailtester.com: Ofrece herramientas para verificar la validez y la existencia de direcciones de correo electrónico.
 •	defastra.com: Plataforma para buscar información y convertirla en inteligencia a través de herramientas online en fuentes abiertas.
 •	seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
-### 10. Análisis de Cabeceras de Correo
+# 10. Análisis de Cabeceras de Correo
 •	Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
 •	Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
 •	Algunas de estas herramientas incluyen:
 •	toolbox.googleapps.com: Herramienta de Google para analizar encabezados de mensajes de correo electrónico.
 •	mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
 •	email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
-### 11. Búsqueda Inversa - Geolocalización
+# 11. Búsqueda Inversa - Geolocalización
 •	Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
 •	Algunas de estas herramientas son:
 •	osm-search.bellingcat.com: Desarrollada por Bellingcat para buscar información geográfica utilizando OpenStreetMap como base, útil para investigaciones periodísticas y análisis de conflictos.
 •	geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
 •	geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
-### 12. SOCK PUPPET Y HUELLA DIGITAL
+# 12. SOCK PUPPET Y HUELLA DIGITAL
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
-### 12.1. Creación de Perfiles "Fake"
+#### 12.1. Creación de Perfiles "Fake"
 •	Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
 •	Fake Name Generator: Proporciona nombres, direcciones, números de teléfono y otros detalles para perfiles falsos.
 •	This Person Does Not Exist: Genera imágenes realistas de personas que no existen.
 •	Photopea: Herramienta de edición de fotos para manipular imágenes.
-### 12.2. Teléfonos Temporales
+#### 12.2. Teléfonos Temporales
 •	HS3X: Proporciona números de teléfono temporales para verificación y comunicación temporal.
 •	SMSGet: Ofrece números de teléfono virtuales para recibir mensajes temporales.
 •	Receive SMS Online: Permite recibir mensajes en números temporales en línea.
-### 12.3. Huella Digital
+#### 12.3. Huella Digital
 •	AmIUnique: Herramienta para comprobar la unicidad de la huella digital de un navegador.
 •	Cover Your Tracks (EFF): Ofrece herramientas para aumentar la privacidad y reducir la huella digital en línea.
 •	Social Media Leak: Verifica qué información personal se puede filtrar desde las redes sociales.
 •	BrowserLeaks: Detecta información técnica que puede ser filtrada por el navegador web.
-### 12.4. Correos Electrónicos Temporales
+#### 12.4. Correos Electrónicos Temporales
 •	Email On Deck: Ofrece direcciones de correo electrónico temporales para verificación en línea.
 •	Temp Mail: Proporciona correos electrónicos temporales para uso temporal.
 •	TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
-### 12.5. Motores de Búsqueda
+#### 12.5. Motores de Búsqueda
 •	Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
 •	Ask: Ofrece resultados de búsqueda y respuestas a preguntas específicas.
 •	DuckDuckGo: Un motor de búsqueda centrado en la privacidad que no rastrea las actividades del usuario.
@@ -282,28 +282,30 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 •	Ecosia: Un motor de búsqueda que utiliza sus ganancias para plantar árboles en todo el mundo.
 •	MillionShort: Un motor de búsqueda que permite a los usuarios eliminar los sitios web populares de los resultados de búsqueda.
 •	Ahmia: Un motor de búsqueda que indexa contenido en la web oscura y anónima.
-### 13. THREAT INTELLIGENCE
+
+# 13. THREAT INTELLIGENCE
 La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Aquí hay algunas plataformas y herramientas en línea que facilitan este proceso:
-### •	13.1. VirusTotal: 
+#### •	13.1. VirusTotal: 
 Una herramienta en línea gratuita que permite cargar archivos y URLs sospechosas para su análisis y escaneo con múltiples motores antivirus y otros servicios de seguridad. Proporciona informes detallados sobre los resultados del escaneo y qué motores antivirus detectaron posibles amenazas.
-### •	13.2. AlienVault OTX (Open Threat Exchange): çUna plataforma gratuita que ofrece inteligencia de amenazas compartida por la comunidad. Proporciona información sobre indicadores de compromiso (IoC) y herramientas para analizar y colaborar en la respuesta a amenazas de seguridad cibernética.
-### •	13.3. IntelX: 
+#### •	13.2. AlienVault OTX (Open Threat Exchange): 
+Una plataforma gratuita que ofrece inteligencia de amenazas compartida por la comunidad. Proporciona información sobre indicadores de compromiso (IoC) y herramientas para analizar y colaborar en la respuesta a amenazas de seguridad cibernética.
+#### •	13.3. IntelX: 
 Un motor de búsqueda y plataforma de inteligencia de amenazas que recopila, indexa y proporciona acceso a una amplia variedad de datos en línea, incluyendo la web oscura. Ofrece funciones de búsqueda avanzada, inteligencia de amenazas y herramientas de integración.
-### •	13.4. Malware Bazaar: 
+#### •	13.4. Malware Bazaar: 
 Una colección de muestras de malware y datos relacionados compartidos por la comunidad de ciberseguridad. Los usuarios pueden explorar una variedad de muestras de malware y utilizar herramientas de búsqueda y filtrado para encontrar muestras específicas basadas en diferentes criterios.
-### •	13.5. Hybrid Analysis: 
+#### •	13.5. Hybrid Analysis: 
 Una plataforma en línea que ofrece análisis automatizado y detallado de archivos y URLs sospechosos en busca de malware y amenazas cibernéticas. Proporciona análisis dinámico y estático de malware, informes detallados y visualizaciones de datos para comprender el comportamiento del malware. Además, fomenta la colaboración y el intercambio de información entre la comunidad de seguridad cibernética.
-### •	13.6. MITRE ATT&CK: 
+#### •	13.6. MITRE ATT&CK: 
 Es un marco de trabajo ampliamente utilizado en ciberseguridad que describe las tácticas, técnicas y procedimientos utilizados por los atacantes. Proporciona una estructura organizada para categorizar y analizar el comportamiento de los atacantes en diferentes etapas de un ciclo de ataque. Este marco es esencial para entender las amenazas y mejorar las defensas.
-### •	13.7. UNIT 42: 
+#### •	13.7. UNIT 42: 
 Desarrollada por PAN-Unit42, es una herramienta que permite explorar y aprender sobre tácticas, técnicas y procedimientos utilizados por actores de amenazas específicos. Ofrece una interfaz gráfica interactiva, matrices de tácticas y técnicas, información detallada y referencias cruzadas, siendo útil para investigadores y profesionales de ciberseguridad.
-### •	13.8. CRIMINALIP: 
+#### •	13.8. CRIMINALIP: 
 Es una plataforma que ofrece servicios de investigación y análisis de direcciones IP y actividad en línea asociada. Permite buscar información sobre direcciones IP, analizar actividad en línea, acceder a inteligencia de amenazas y utilizarla en investigaciones forenses digitales.
-### •	13.9. DARKFEED: 
+#### •	13.9. DARKFEED: 
 Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionados con la ciberseguridad. Ofrece información sobre amenazas emergentes, actividad en la web oscura, análisis de tendencias, integraciones con herramientas de seguridad y alertas y notificaciones para mejorar la detección y respuesta a amenazas.
-### •	13.10. SOCRADAR: 
+#### •	13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
-### •	13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
+#### •	13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
 ##         •	IPQualityScore: 
 Herramienta de detección de fraude y amenazas cibernéticas con alta precisión. Ofrece servicios como evaluación de reputación de IP, detección de fraude en línea, protección contra ataques DDoS, validación de direcciones IP e integraciones con sistemas de seguridad.
 ##         •	PolySwarm: 
@@ -313,50 +315,98 @@ Ofrece información sobre actores de amenazas recopilada por la ETDA, una agenci
 ##         •	Intezer: 
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
-5. OTRAS HERRAMIENTAS DE INTERÉS:
+# 14. OTRAS HERRAMIENTAS DE INTERÉS:
 En esta sección se presentan diversas herramientas online que pueden ser útiles en la vida diaria de un analista:
-•	Thumbnail Save: Permite ver y descargar imágenes de vista previa de miniaturas de YouTube.
-•	Dedigger: Motor de búsqueda que permite encontrar archivos públicos en Google Drive.
-•	ExpandURL: Servicio para averiguar a dónde llevará una URL acortada antes de hacer clic en ella.
-•	IMEI.info: Permite obtener información sobre un dispositivo a partir de su número IMEI.
-•	JustDeleteMe: Directorio de enlaces directos para eliminar cuentas en la web, con indicadores de dificultad.
-•	SpyCloud: Recopila y monitorea datos filtrados y robados en la web oscura y otros canales clandestinos en línea para proteger a las organizaciones y usuarios.
-•	RIPE Database: Herramienta de búsqueda de texto completo para buscar información sobre recursos de direcciones IP y sistemas autónomos.
-•	Aaron CTI's OSINT Resource Collection: Excel con una amplia selección de herramientas, sitios, cursos, entrenamientos y miles de aspectos relacionados con OSINT e investigación en fuentes abiertas.
-•	JSON.Crack: Editor JSON para visualizar, analizar y manipular datos.
-•	DarkWeb Archive: Buscador de sitios ONION archivados de la Dark Web.
-•	Blackbird: Ofrece funcionalidades para la recopilación y análisis de información de fuentes abiertas en línea.
-•	WhoPostedWhat: Herramienta de búsqueda de palabras clave no públicas en Facebook y Twitter.
-•	AnonStories: Permite visualizar y descargar historias de Instagram de forma anónima.
-•	Búsqueda Avanzada de Twitter: Herramienta para realizar búsquedas específicas y detalladas en Twitter.
-•	Exploit Database: Base de datos de vulnerabilidades de seguridad informática.
-•	OSINT Framework: Ofrece una recopilación organizada de herramientas y recursos para realizar inteligencia de fuentes abiertas.
-•	Base64Decode: Herramienta en línea para decodificar texto codificado en Base64.
-•	Malfrat's OSINT Map: Árbol online de herramientas útiles seleccionadas para propósitos OSINT.
-•	Deepfake Detector: Herramienta contra la desinformación de la IA para detectar deepfakes en audio y video.
-•	Any.Run: Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
-6. ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS:
+####       •	Thumbnail Save: 
+Permite ver y descargar imágenes de vista previa de miniaturas de YouTube.
+####         •	Dedigger:
+Motor de búsqueda que permite encontrar archivos públicos en Google Drive.
+####         •	ExpandURL: 
+Servicio para averiguar a dónde llevará una URL acortada antes de hacer clic en ella.
+####         •	IMEI.info: 
+Permite obtener información sobre un dispositivo a partir de su número IMEI.
+####         •	JustDeleteMe: 
+Directorio de enlaces directos para eliminar cuentas en la web, con indicadores de dificultad.
+####         •	SpyCloud: 
+Recopila y monitorea datos filtrados y robados en la web oscura y otros canales clandestinos en línea para proteger a las organizaciones y usuarios.
+####         •	RIPE Database: 
+Herramienta de búsqueda de texto completo para buscar información sobre recursos de direcciones IP y sistemas autónomos.
+####         •	Aaron CTI's OSINT Resource Collection: 
+Excel con una amplia selección de herramientas, sitios, cursos, entrenamientos y miles de aspectos relacionados con OSINT e investigación en fuentes abiertas.
+####         •	JSON.Crack: 
+Editor JSON para visualizar, analizar y manipular datos.
+####         •	DarkWeb Archive: 
+Buscador de sitios ONION archivados de la Dark Web.
+####         •		Blackbird: 
+Ofrece funcionalidades para la recopilación y análisis de información de fuentes abiertas en línea.
+####         •	WhoPostedWhat: 
+Herramienta de búsqueda de palabras clave no públicas en Facebook y Twitter.
+####         •	AnonStories: 
+Permite visualizar y descargar historias de Instagram de forma anónima.
+####         •	Búsqueda Avanzada de Twitter: 
+Herramienta para realizar búsquedas específicas y detalladas en Twitter.
+####         •	Exploit Database: 
+Base de datos de vulnerabilidades de seguridad informática.
+####         •	OSINT Framework: 
+Ofrece una recopilación organizada de herramientas y recursos para realizar inteligencia de fuentes abiertas.
+####         •	Base64Decode: 
+Herramienta en línea para decodificar texto codificado en Base64.
+####         •	Malfrat's OSINT Map: 
+Árbol online de herramientas útiles seleccionadas para propósitos OSINT.
+####         •	Deepfake Detector: 
+Herramienta contra la desinformación de la IA para detectar deepfakes en audio y video.
+####         •	Any.Run: 
+Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
+
+# 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS:
+
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
-•	TheHarvester: Permite obtener datos y contactos relacionados con un dominio específico a partir de fuentes públicas en línea.
-•	Recon-ng: Herramienta para el reconocimiento y recopilación de información que automatiza la búsqueda y obtención de datos en línea para realizar investigaciones de seguridad y pruebas de penetración.
-•	IP Tracer: Rastrea y proporciona información detallada sobre la ubicación geográfica y otros detalles relacionados con una dirección IP específica.
-•	Shodan: Motor de búsqueda para encontrar dispositivos escaneados conectados a Internet.
-•	Nmap: Herramienta de escaneo de red que permite descubrir hosts, servicios y puertos abiertos en una red.
-•	Maltego: Servicio que encuentra información sobre personas y empresas en Internet, permitiendo cruzar datos para obtener perfiles en redes sociales, servidores de correo, etc.
-•	Exiftool: Permite visualizar, modificar y extraer metadatos incrustados en archivos multimedia, como imágenes y videos.
-•	H8mail: Herramienta de código abierto para buscar y recopilar información filtrada o comprometida, como correos electrónicos y contraseñas.
-•	GhostTrack: Herramienta para rastrear la ubicación o el número de teléfono móvil.
-•	The_Spy_Job: Herramienta de OSINT para recolectar información sobre algo o alguien.
-•	Phonefy: Recupera información sobre teléfonos móviles vinculados a prácticas conocidas de spam.
-•	Sherlock: Busca cuentas de redes sociales por nombre de usuario en diversas plataformas.
-•	IP Info: Proporciona información detallada sobre direcciones IP y dominios.
-•	URL Scan: Herramienta para analizar y obtener información detallada sobre una URL específica.
-•	OSRFramework: Plataforma que organiza herramientas y recursos de fuentes abiertas en línea para facilitar la investigación y recopilación de información.
-•	Spiderfoot: Automatiza la recopilación de información e realiza análisis de inteligencia de fuentes abiertas para obtener datos relevantes sobre un objetivo.
-•	Holehe: Verifica si un correo electrónico está asociado a una cuenta en varios sitios web y redes sociales.
-•	Domainfy: Encuentra dominios que actualmente se resuelven usando una palabra o apodo dado.
-•	Usufy: Identifica perfiles de redes sociales usando un apodo dado.
-•	Mailfy: Encuentra más información sobre los correos electrónicos tomando como referencia un apodo o una lista de correo electrónico.
-•	Searchfy: Encuentra perfiles vinculados a un nombre completo.
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/107c0cc3-4a5c-4e46-9a57-322780f97a25)
+
+
+
+####     • TheHarvester: 
+Permite obtener datos y contactos relacionados con un dominio específico a partir de fuentes públicas en línea.
+####     • Recon-ng: 
+Herramienta para el reconocimiento y recopilación de información que automatiza la búsqueda y obtención de datos en línea para realizar investigaciones de seguridad y pruebas de penetración.
+####     • IP Tracer: 
+Rastrea y proporciona información detallada sobre la ubicación geográfica y otros detalles relacionados con una dirección IP específica.
+####     • Shodan: 
+Motor de búsqueda para encontrar dispositivos escaneados conectados a Internet.
+####     • Nmap: 
+Herramienta de escaneo de red que permite descubrir hosts, servicios y puertos abiertos en una red.
+####     • Maltego: 
+Servicio que encuentra información sobre personas y empresas en Internet, permitiendo cruzar datos para obtener perfiles en redes sociales, servidores de correo, etc.
+####     • Exiftool: 
+Permite visualizar, modificar y extraer metadatos incrustados en archivos multimedia, como imágenes y videos.
+####     • H8mail: 
+Herramienta de código abierto para buscar y recopilar información filtrada o comprometida, como correos electrónicos y contraseñas.
+####     • GhostTrack: 
+Herramienta para rastrear la ubicación o el número de teléfono móvil.
+####     • The_Spy_Job: 
+Herramienta de OSINT para recolectar información sobre algo o alguien.
+####     • Phonefy: 
+Recupera información sobre teléfonos móviles vinculados a prácticas conocidas de spam.
+####     • Sherlock: 
+Busca cuentas de redes sociales por nombre de usuario en diversas plataformas.
+####     • IP Info: 
+Proporciona información detallada sobre direcciones IP y dominios.
+####     • URL Scan: 
+Herramienta para analizar y obtener información detallada sobre una URL específica.
+####     • OSRFramework: 
+Plataforma que organiza herramientas y recursos de fuentes abiertas en línea para facilitar la investigación y recopilación de información.
+####     • Spiderfoot: 
+Automatiza la recopilación de información e realiza análisis de inteligencia de fuentes abiertas para obtener datos relevantes sobre un objetivo.
+####     • Holehe: 
+Verifica si un correo electrónico está asociado a una cuenta en varios sitios web y redes sociales.
+####     • Domainfy: 
+Encuentra dominios que actualmente se resuelven usando una palabra o apodo dado.
+####     • Usufy: 
+Identifica perfiles de redes sociales usando un apodo dado.
+####     • Mailfy: 
+Encuentra más información sobre los correos electrónicos tomando como referencia un apodo o una lista de correo electrónico.
+####     • Searchfy: 
+Encuentra perfiles vinculados a un nombre completo.
 
 
