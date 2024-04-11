@@ -74,15 +74,19 @@ Se proporciona una lista de herramientas y recursos en línea para analizar meta
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/65e189f0-9deb-469a-84c0-7c8f2e36de15)
 
 - https://exifdata.com/
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03efae84-fdc2-40c8-a458-45f3b0c082f0)
 
 - https://www.metadata2go.com/view-metadata
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b9a00663-3d48-41d9-b0ac-eaf75e4a3dbd)
 
 - https://exifinfo.org
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/ec076ef5-1fe1-4906-93f0-f0124db7f856)
 
 - https://www.stolencamerafinder.com/
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/85f2abf2-1386-46d4-84c7-cf089f4b1abd)
 
   
