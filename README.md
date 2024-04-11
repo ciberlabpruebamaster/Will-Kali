@@ -71,6 +71,7 @@ En esta sección, se destaca la importancia de contar con un sistema de marcador
 ### 2.1. OSINT METADATOS ONLINE
 Se proporciona una lista de herramientas y recursos en línea para analizar metadatos de imágenes, lo que incluye la identificación y eliminación de metadatos, así como la realización de búsquedas avanzadas utilizando operadores booleanos. Entre las herramientas destacadas se encuentran:
 - https://www.dcode.fr/exif-data
+  
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/65e189f0-9deb-469a-84c0-7c8f2e36de15)
 
 - https://exifdata.com/
