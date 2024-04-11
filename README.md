@@ -70,17 +70,19 @@ En esta sección, se destaca la importancia de contar con un sistema de marcador
 
 ### 2.1. OSINT METADATOS ONLINE
 Se proporciona una lista de herramientas y recursos en línea para analizar metadatos de imágenes, lo que incluye la identificación y eliminación de metadatos, así como la realización de búsquedas avanzadas utilizando operadores booleanos. Entre las herramientas destacadas se encuentran:
-•	https://www.dcode.fr/exif-data
-•	https://exifdata.com/
-•	https://www.metadata2go.com/view-metadata
-•	https://exifinfo.org
-•	https://www.stolencamerafinder.com/
+- https://www.dcode.fr/exif-data
+- https://exifdata.com/
+- https://www.metadata2go.com/view-metadata
+- https://exifinfo.org
+- https://www.stolencamerafinder.com/
+  
 Estas herramientas permiten analizar metadatos de imágenes y encontrar cámaras fotográficas robadas mediante el análisis de los metadatos EXIF.
 
 ### 2.2. INFORMACION IP + DNS ONLINE
 Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
-•	https://hackertarget.com/
-•	https://www.shodan.io/
+- https://hackertarget.com/
+- https://www.shodan.io/
+
 Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red.
 
 ### 2.3. API Y HERRAMIENTAS DE ANÁLISIS
