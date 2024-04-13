@@ -714,7 +714,7 @@ Encuentra perfiles vinculados a un nombre completo.
 | User-Agent Switcher for Chrome | What font - font Finder        |
 | Alicent for ChatGPT            | Url Shortener                  |
 | **MARCADORES PARA NAVEGADORES**| **MARCADORES PARA NAVEGADORES** |
-| OSINT METADATOS ONLINE         | INFORMACION IP + DNS ONLINE    |
+| **OSINT METADATOS ONLINE**         | **INFORMACION IP + DNS ONLINE**    |
 | [dcode.fr](https://www.dcode.fr/exif-data) | [hackertarget.com](https://hackertarget.com/) |
 | [exifdata.com](https://exifdata.com/) | [shodan.io](https://www.shodan.io/) |
 | [metadata2go.com](https://www.metadata2go.com/view-metadata) | [dnsdumpster.com](https://dnsdumpster.com/) |
