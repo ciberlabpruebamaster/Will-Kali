@@ -788,9 +788,10 @@ Encuentra perfiles vinculados a un nombre completo.
 | [base64decode.org/](https://www.base64decode.org/) | [map.malfrats.industries/](https://map.malfrats.industries/) |
 | [deepfakedetector.ai/](https://deepfakedetector.ai/) | [app.any.run/](https://app.any.run/) |
 
+
 # 🔗 17. VIDEO DEMO "WILL-KALI" 👾
 
-<a href="https://youtu.be/YQQatncUJWg" target="_blank">![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/ab8513d8-e245-4829-bef6-6134b31753ee)</a>
+[![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/ab8513d8-e245-4829-bef6-6134b31753ee)](https://youtu.be/YQQatncUJWg){:target="_blank"}
 
 
 # 🔗 18. DESCARGA OVA "WILL-KALI" 👾
