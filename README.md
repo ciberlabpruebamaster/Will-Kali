@@ -350,7 +350,10 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5db6076a-678f-4904-b0f3-5240b17744b8)
 
-https://gmail-osint.activetk.jp/ 			https://mailtester.com/en/ 	https://defastra.com/ 			       https://seon.io/es/  	
+- https://gmail-osint.activetk.jp/
+- https://mailtester.com/en/ 
+- https://defastra.com/ 			     
+- https://seon.io/es/  	
 
 - gmail-osint.activetk.jp: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico de Gmail.
 - mailtester.com: Ofrece herramientas para verificar la validez y la existencia de direcciones de correo electrónico.
