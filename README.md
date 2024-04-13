@@ -107,7 +107,8 @@ Se presenta una lista de herramientas y servicios en línea relacionados con la 
 
 - https://www.shodan.io/
   
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/aeff718d-c6a0-4e84-a0c1-ce2419d36f52)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03861094-a958-402e-95ec-c456c03b246c)
+
 
 Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red.
 
@@ -115,9 +116,15 @@ Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar 
 Esta sección se centra en las herramientas y servicios disponibles para el análisis de información en línea, así como en la integración de la funcionalidad de Shodan a través de su API. Se describen los siguientes aspectos:
 
 ### 2.3.1. API DE SHODAN
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03861094-a958-402e-95ec-c456c03b246c)
+
 Se destaca la API ofrecida por Shodan, que permite a los desarrolladores integrar la funcionalidad de Shodan en sus propias aplicaciones y herramientas. Esto les permite realizar búsquedas y obtener información sobre dispositivos conectados a Internet de manera programática.
+
 ### 2.3.2. HERRAMIENTAS DE ANÁLISIS DNS
-Se mencionan varias herramientas en línea, como DNSDumpster, Netcraft y Robtex, que proporcionan funcionalidades para recopilar información relacionada con nombres de dominio y sistemas de nombres de dominio (DNS). Estas herramientas son útiles para investigadores de seguridad y profesionales de ciberseguridad para obtener información sobre la infraestructura de dominios y ayudar en la identificación de posibles problemas de seguridad.
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b700c1f4-f9bd-43e9-9e73-ec16c986e601)
+
+Debemos mencionar varias herramientas en línea, como DNSDumpster, Netcraft y Robtex, que proporcionan funcionalidades para recopilar información relacionada con nombres de dominio y sistemas de nombres de dominio (DNS). Estas herramientas nos son útiles a los investigadores de seguridad y profesionales de ciberseguridad para obtener información sobre la infraestructura de dominios y ayudar en la identificación de posibles problemas de seguridad.
+
 ### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES
 Se describen herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
 
