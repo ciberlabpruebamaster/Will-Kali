@@ -100,14 +100,14 @@ Se proporciona una lista de herramientas y recursos en línea para analizar meta
 Estas herramientas permiten analizar metadatos de imágenes y encontrar cámaras fotográficas robadas mediante el análisis de los metadatos EXIF.
 
 ### 2.2. INFORMACION IP + DNS ONLINE
-Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
-- https://hackertarget.com/
-  
-  ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/016e44ba-1287-42f1-b258-6cf8b8c60fc4)
 
+Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/3c63662c-cd27-47b4-992b-18b5d854f076)
+
+- https://hackertarget.com/
 - https://www.shodan.io/
   
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03861094-a958-402e-95ec-c456c03b246c)
 
 
 Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red.
