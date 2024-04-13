@@ -414,25 +414,39 @@ Sus principales características son:
 -------------------------------
 
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
+
 #### 12.1. Creación de Perfiles "Fake"
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/f39ea9ec-62c6-4df3-b32b-b88d3137e89b)
+
 - Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
 - Fake Name Generator: Proporciona nombres, direcciones, números de teléfono y otros detalles para perfiles falsos.
 - This Person Does Not Exist: Genera imágenes realistas de personas que no existen.
 - Photopea: Herramienta de edición de fotos para manipular imágenes.
+  
 #### 12.2. Teléfonos Temporales
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/3b9a0b0f-d696-4bf1-8bfd-d9e9ad5582d2)
+
 - HS3X: Proporciona números de teléfono temporales para verificación y comunicación temporal.
 - SMSGet: Ofrece números de teléfono virtuales para recibir mensajes temporales.
-•	Receive SMS Online: Permite recibir mensajes en números temporales en línea.
+- Receive SMS Online: Permite recibir mensajes en números temporales en línea.
 #### 12.3. Huella Digital
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/6d6c1bd2-a9db-4cf7-a8e1-7de3bf9768d8)
+
 - AmIUnique: Herramienta para comprobar la unicidad de la huella digital de un navegador.
 - Cover Your Tracks (EFF): Ofrece herramientas para aumentar la privacidad y reducir la huella digital en línea.
 - Social Media Leak: Verifica qué información personal se puede filtrar desde las redes sociales.
 - BrowserLeaks: Detecta información técnica que puede ser filtrada por el navegador web.
+  
 #### 12.4. Correos Electrónicos Temporales
-•	Email On Deck: Ofrece direcciones de correo electrónico temporales para verificación en línea.
-•	Temp Mail: Proporciona correos electrónicos temporales para uso temporal.
-•	TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/132536a0-298e-4986-ae56-c0a92a381caa)
+
+- Email On Deck: Ofrece direcciones de correo electrónico temporales para verificación en línea.
+- Temp Mail: Proporciona correos electrónicos temporales para uso temporal.
+- TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
+
 #### 12.5. Motores de Búsqueda
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/eac041be-3add-434b-a61c-07f9edd450b8)
+
 - Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
 - Ask: Ofrece resultados de búsqueda y respuestas a preguntas específicas.
 - DuckDuckGo: Un motor de búsqueda centrado en la privacidad que no rastrea las actividades del usuario.
@@ -447,24 +461,26 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 # 🔗 13. THREAT INTELLIGENCE
 -------------------------------
 
-La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Aquí hay algunas plataformas y herramientas en línea que facilitan este proceso:
-#### •	13.1. VirusTotal: 
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d8b0faa2-f156-4c4f-9002-2a653f98895e)
+
+La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Citamos  algunas de las plataformas y herramientas en línea que facilitan este proceso y que son imprescindibles en ciberinteligencia:
+#### 13.1. VirusTotal: 
 Una herramienta en línea gratuita que permite cargar archivos y URLs sospechosas para su análisis y escaneo con múltiples motores antivirus y otros servicios de seguridad. Proporciona informes detallados sobre los resultados del escaneo y qué motores antivirus detectaron posibles amenazas.
-#### •	13.2. AlienVault OTX (Open Threat Exchange): 
+#### 13.2. AlienVault OTX (Open Threat Exchange): 
 Una plataforma gratuita que ofrece inteligencia de amenazas compartida por la comunidad. Proporciona información sobre indicadores de compromiso (IoC) y herramientas para analizar y colaborar en la respuesta a amenazas de seguridad cibernética.
-#### •	13.3. IntelX: 
+#### 13.3. IntelX: 
 Un motor de búsqueda y plataforma de inteligencia de amenazas que recopila, indexa y proporciona acceso a una amplia variedad de datos en línea, incluyendo la web oscura. Ofrece funciones de búsqueda avanzada, inteligencia de amenazas y herramientas de integración.
-#### •	13.4. Malware Bazaar: 
+#### 13.4. Malware Bazaar: 
 Una colección de muestras de malware y datos relacionados compartidos por la comunidad de ciberseguridad. Los usuarios pueden explorar una variedad de muestras de malware y utilizar herramientas de búsqueda y filtrado para encontrar muestras específicas basadas en diferentes criterios.
-#### •	13.5. Hybrid Analysis: 
+#### 13.5. Hybrid Analysis: 
 Una plataforma en línea que ofrece análisis automatizado y detallado de archivos y URLs sospechosos en busca de malware y amenazas cibernéticas. Proporciona análisis dinámico y estático de malware, informes detallados y visualizaciones de datos para comprender el comportamiento del malware. Además, fomenta la colaboración y el intercambio de información entre la comunidad de seguridad cibernética.
-#### •	13.6. MITRE ATT&CK: 
+#### 13.6. MITRE ATT&CK: 
 Es un marco de trabajo ampliamente utilizado en ciberseguridad que describe las tácticas, técnicas y procedimientos utilizados por los atacantes. Proporciona una estructura organizada para categorizar y analizar el comportamiento de los atacantes en diferentes etapas de un ciclo de ataque. Este marco es esencial para entender las amenazas y mejorar las defensas.
-#### •	13.7. UNIT 42: 
+#### 13.7. UNIT 42: 
 Desarrollada por PAN-Unit42, es una herramienta que permite explorar y aprender sobre tácticas, técnicas y procedimientos utilizados por actores de amenazas específicos. Ofrece una interfaz gráfica interactiva, matrices de tácticas y técnicas, información detallada y referencias cruzadas, siendo útil para investigadores y profesionales de ciberseguridad.
-#### •	13.8. CRIMINALIP: 
+#### 13.8. CRIMINALIP: 
 Es una plataforma que ofrece servicios de investigación y análisis de direcciones IP y actividad en línea asociada. Permite buscar información sobre direcciones IP, analizar actividad en línea, acceder a inteligencia de amenazas y utilizarla en investigaciones forenses digitales.
-#### •	13.9. DARKFEED: 
+#### 13.9. DARKFEED: 
 Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionados con la ciberseguridad. Ofrece información sobre amenazas emergentes, actividad en la web oscura, análisis de tendencias, integraciones con herramientas de seguridad y alertas y notificaciones para mejorar la detección y respuesta a amenazas.
 #### •	13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
