@@ -417,7 +417,7 @@ Sus principales características son:
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
 
 #### 12.1. Creación de Perfiles "Fake"
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/f39ea9ec-62c6-4df3-b32b-b88d3137e89b)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/11749471-3a54-4a80-b83f-ea49c32084e6)
 
 - Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
 - Fake Name Generator: Proporciona nombres, direcciones, números de teléfono y otros detalles para perfiles falsos.
