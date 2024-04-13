@@ -133,7 +133,21 @@ Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcion
 - https://en.fofa.info/
 
 # 🔗 3. HERRAMIENTAS DE ANÁLISIS ONLINE
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/26275922-7e30-4b4d-8035-eca914992cb0)
+
 Esta parte destaca una serie de herramientas en línea que son útiles para analizar y escanear URLs en busca de posibles amenazas de seguridad, así como para obtener información detallada sobre direcciones IP y dominios en línea. Aquí están las herramientas mencionadas:
+
+- https://urlscan.io/
+- https://crt.sh/
+- https://ping.pe/
+- https://web-check.xyz/
+- https://app.netlas.io/host/
+- https://ipinfo.io/ 
+- https://myip.ms/
+- https://grabify.link/ 
+- https://iplogger.org/es/
+
 ### 3.1. urlscan.io
 - Herramienta en línea para analizar y escanear URLs en busca de contenido malicioso, scripts sospechosos y otras amenazas de seguridad.
 - Características incluyen análisis de contenido, verificación de la reputación del dominio e IP, captura de pantalla y detalles detallados del análisis realizado.
