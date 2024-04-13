@@ -318,7 +318,7 @@ Estas herramientas son útiles para ayudar a los usuarios a proteger su informac
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2a97bd56-6ef4-4f0a-9df1-8db3a86b6f2c)
 
-Aquí tienes más información sobre plataformas relacionadas con la gestión de correos electrónicos y la seguridad cibernética:
+Aquí tenemos más información sobre plataformas relacionadas con la gestión de correos electrónicos:
 
 - https://hunter.io
 - https://epieos.com
@@ -349,7 +349,8 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 - Presenta los datos de forma clara y concisa mediante gráficos interactivos, mapas geográficos y diagramas.
 - Ayuda a comprender mejor la información obtenida y detectar patrones o relaciones ocultas, facilitando el análisis.
 - Es especialmente útil para profesionales de la inteligencia abierta y para llevar a cabo investigaciones exhaustivas.
-### <span style="color:blue;">9.4. synapsint.com</span>
+  
+### 9.4. synapsint.com
 - Una herramienta que recopila datos de un objetivo específico, como un dominio, una dirección IP o un correo electrónico, desde múltiples fuentes abiertas en Internet.
 - Extrae información veraz de fuentes como Shodan, VirusTotal y los Registros Regionales de Internet.
 - Ofrece una interfaz amigable que permite seleccionar el tipo de objetivo, como dominios, direcciones IP, teléfonos, cuentas de redes sociales, entre otros.
@@ -366,6 +367,7 @@ Otras plataformas de búsqueda de emails:
 - https://mailtester.com/en/ 
 - https://defastra.com/ 			     
 - https://seon.io/es/
+  
 
 Detallamos cada una de estas plataformas, y cómo pueden ayudarnos en analísis, investigación y ciberinteligencia:
 
@@ -377,9 +379,16 @@ Detallamos cada una de estas plataformas, y cómo pueden ayudarnos en analísis,
 # 🔗 10. Análisis de Cabeceras de Correo
 -------------------------------
 
-- Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
-- Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
-Algunas de estas herramientas incluyen:
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/6ce4c83d-332f-4aee-a9c4-3ca09a1d001f)
+
+- https://toolbox.googleapps.com/apps/messageheader/
+- https://mxtoolbox.com/EmailHeaders.aspx 						
+- https://email-analyze.activetk.jp/
+
+Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores. Entre otras cosas, permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
+
+Algunas de estas herramientas a destacar son:
+
 - toolbox.googleapps.com: Herramienta de Google para analizar encabezados de mensajes de correo electrónico.
 - mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
 - email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
@@ -387,8 +396,16 @@ Algunas de estas herramientas incluyen:
 # 🔗 11. Búsqueda Inversa - Geolocalización
 -------------------------------
 
-- Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/f5a0d3ae-c306-4d71-b086-0e2bf28aa0e9)
+
+Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
 Algunas de estas herramientas son:
+- https://osm-search.bellingcat.com/
+- https://geospy.web.app/
+- https://www.geocreepy.com/
+
+Sus principales características son:
+
 - osm-search.bellingcat.com: Desarrollada por Bellingcat para buscar información geográfica utilizando OpenStreetMap como base, útil para investigaciones periodísticas y análisis de conflictos.
 - geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
 - geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
