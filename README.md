@@ -121,7 +121,7 @@ Esta sección se centra en las herramientas y servicios disponibles para el aná
 Se destaca la API ofrecida por Shodan, que permite a los desarrolladores integrar la funcionalidad de Shodan en sus propias aplicaciones y herramientas. Esto les permite realizar búsquedas y obtener información sobre dispositivos conectados a Internet de manera programática.
 
 ### 2.3.2. HERRAMIENTAS DE ANÁLISIS DNS
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b700c1f4-f9bd-43e9-9e73-ec16c986e601)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/0aa72fa2-d6f2-4718-82f4-9bf1e1bd6724)
 
 Debemos mencionar varias herramientas en línea, como DNSDumpster, Netcraft y Robtex, que proporcionan funcionalidades para recopilar información relacionada con nombres de dominio y sistemas de nombres de dominio (DNS). Estas herramientas nos son útiles a los investigadores de seguridad y profesionales de ciberseguridad para obtener información sobre la infraestructura de dominios y ayudar en la identificación de posibles problemas de seguridad.
 
