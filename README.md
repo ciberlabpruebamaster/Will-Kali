@@ -6,6 +6,8 @@ Will-Kali es una distribución personalizada de Kali Linux en VMware 17, basada 
 </p>
 
 
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/f9617c6a-effb-4c41-b4a9-9e2c9e375600)
+
 # 🔗 1. NAVEGADORES WEB 🌐
 -------------------------------
 
