@@ -73,6 +73,9 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 En TorBrowser, no se admiten extensiones para preservar el anonimato y la privacidad, ya que su uso podría comprometer estas características fundamentales. No son necesarias de hecho.
 
 # 2. MARCADORES PARA NAVEGADORES
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/a75399c4-5a85-4daa-8c9f-4d257d45ed7b)
+
 En esta sección, se destaca la importancia de contar con un sistema de marcadores organizados para la navegación efectiva en el ámbito de la ciberinteligencia. Se recomienda el uso de la plataforma https://start.me/ para crear un repositorio de marcadores accesible desde cualquier navegador compatible, como Brave y Chromium. Los marcadores se organizan por familias para facilitar su acceso y utilización.
 
 ### 2.1. OSINT METADATOS ONLINE
@@ -100,9 +103,7 @@ Se presenta una lista de herramientas y servicios en línea relacionados con la 
 - https://hackertarget.com/
 - https://www.shodan.io/
   
-
-
-Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red.
+Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red, imprescindibles para analistas de inteligencia.
 
 ### 2.3. API Y HERRAMIENTAS DE ANÁLISIS
 Esta sección se centra en las herramientas y servicios disponibles para el análisis de información en línea, así como en la integración de la funcionalidad de Shodan a través de su API. Se describen los siguientes aspectos:
@@ -117,8 +118,19 @@ Se destaca la API ofrecida por Shodan, que permite a los desarrolladores integra
 
 Debemos mencionar varias herramientas en línea, como DNSDumpster, Netcraft y Robtex, que proporcionan funcionalidades para recopilar información relacionada con nombres de dominio y sistemas de nombres de dominio (DNS). Estas herramientas nos son útiles a los investigadores de seguridad y profesionales de ciberseguridad para obtener información sobre la infraestructura de dominios y ayudar en la identificación de posibles problemas de seguridad.
 
+- https://dnsdumpster.com/
+- https://www.netcraft.com
+- https://www.robtex.com/
+ 
+
+
 ### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES
-Se describen herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b34ee8c8-b39c-414c-81da-89f39058e9a5)
+
+Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
+
+- https://viz.greynoise.io/
+- https://en.fofa.info/
 
 # 3. HERRAMIENTAS DE ANÁLISIS ONLINE
 Esta parte destaca una serie de herramientas en línea que son útiles para analizar y escanear URLs en busca de posibles amenazas de seguridad, así como para obtener información detallada sobre direcciones IP y dominios en línea. Aquí están las herramientas mencionadas:
