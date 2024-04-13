@@ -356,7 +356,7 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 - Proporciona información detallada sobre el objetivo seleccionado, lo que incluye datos relevantes para la investigación.
 
   
-### <u>9.5. Otras plataformas de búsqueda de emails:</u>
+### <span style="text-decoration: underline;">9.5. Otras plataformas de búsqueda de emails:</span>
 
 Otras plataformas de búsqueda de emails:
 
