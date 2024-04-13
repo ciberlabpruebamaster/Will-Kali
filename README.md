@@ -790,8 +790,9 @@ Encuentra perfiles vinculados a un nombre completo.
 
 # 🔗 17. VIDEO DEMO "WILL-KALI" 👾
 
-[![Alt text](![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/bf250ba8-8a0f-41c1-8ce1-0b7f6f236e38)
-)](https://youtu.be/YQQatncUJWg)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2354e268-fdc3-404c-af82-8a028cf480c4)
+
+(https://youtu.be/YQQatncUJWg)
 
 
 # 🔗 18. DESCARGA OVA "WILL-KALI" 👾
