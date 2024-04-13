@@ -13,10 +13,10 @@ Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada 
 
 Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. Para mí, por orden de importancia y funcionamiento:
 
-#### Brave.
-#### Chromium.
-#### Firefox.
-#### Tor (imprescindible en DeepWeb).
+- Brave.
+- Chromium.
+- Firefox.
+- Tor (imprescindible en DeepWeb).
 
 ## 1.1. FIREFOX 
 
