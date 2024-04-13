@@ -463,7 +463,21 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d8b0faa2-f156-4c4f-9002-2a653f98895e)
 
-La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Citamos  algunas de las plataformas y herramientas en línea que facilitan este proceso y que son imprescindibles en ciberinteligencia:
+La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos.
+
+- https://www.virustotal.com/gui/home/upload
+- https://otx.alienvault.com
+- https://intelx.io
+- https://bazaar.abuse.ch/browse
+- https://www.hybrid-analysis.com
+-  https://attack.mitre.org
+- https://pan-unit42.github.io/playbook_viewer
+- https://www.criminalip.io
+- https://darkfeed.io
+- https://socradar.io
+
+Citamos  algunas de las plataformas y herramientas en línea que facilitan este proceso y que son imprescindibles en ciberinteligencia:
+
 #### 13.1. VirusTotal: 
 Una herramienta en línea gratuita que permite cargar archivos y URLs sospechosas para su análisis y escaneo con múltiples motores antivirus y otros servicios de seguridad. Proporciona informes detallados sobre los resultados del escaneo y qué motores antivirus detectaron posibles amenazas.
 #### 13.2. AlienVault OTX (Open Threat Exchange): 
@@ -485,13 +499,15 @@ Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionado
 #### 13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
 #### 13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
-#### - IPQualityScore: 
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/0b67fa5f-335a-4ead-86f3-bcbbc7b6dba2)
+
+- IPQualityScore: 
 Herramienta de detección de fraude y amenazas cibernéticas con alta precisión. Ofrece servicios como evaluación de reputación de IP, detección de fraude en línea, protección contra ataques DDoS, validación de direcciones IP e integraciones con sistemas de seguridad.
-#### - PolySwarm: 
+- PolySwarm: 
 Plataforma de ciberseguridad basada en blockchain que utiliza un mercado de seguridad descentralizado para colaborar en la detección y análisis de malware y amenazas cibernéticas. Ofrece un mercado descentralizado de seguridad, colaboración de la comunidad e integraciones con herramientas de seguridad.
-#### - ETDA APT Encyclopedia: 
+- ETDA APT Encyclopedia: 
 Ofrece información sobre actores de amenazas recopilada por la ETDA, una agencia gubernamental de Tailandia encargada de regular la tecnología de la información y la comunicación (TIC).
-#### - Intezer: 
+- Intezer: 
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
 # 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:
