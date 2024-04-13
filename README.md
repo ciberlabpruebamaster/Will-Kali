@@ -693,6 +693,119 @@ Encuentra más información sobre los correos electrónicos tomando como referen
 ####     • Searchfy: 
 Encuentra perfiles vinculados a un nombre completo.
 
-# 🔗 16. DESCARGA OVA "WILL-KALI" 👾
+# 🔗 16. RESUMEN HERRAMIENTAS "WILL-KALI" 👾
+## Herramientas de OSINT
+
+| Herramientas                      | Herramientas                            |
+| --------------------------------- | ---------------------------------------- |
+| **Extensiones**                   | **Marcadores para navegadores**          |
+| Canvas Defender                  | [OSINT Metadatos Online](https://www.dcode.fr/exif-data) |
+| IG Downloader - Instagram Downloader | [Información IP + DNS Online](https://hackertarget.com/) |
+| CyberGhost VPN Free Proxy         | [Exif Data](https://exifdata.com/) |
+| Wayback Machine                   | [Netcraft](https://www.netcraft.com) |
+| Resurrect Pages                   | [Robtex](https://www.robtex.com/) |
+| Surf Security                     | **Análisis de Redes** |
+| Shodan                            | [Greynoise](https://viz.greynoise.io/) |
+| Web Scraper - Free Web Scraping   | [FOFA](https://en.fofa.info/) |
+| User-Agent Switcher and Manager   | **Análisis Online** |
+| Search by Image                   | [WHOIS y Dominios](https://whois.whoisxmlapi.com) |
+| Hunter - Email Finder Extension   | [Whois Domain Tools](https://whois.domaintools.com) |
+| UltraSurf Security, Privacy & Unblock VPN | [Whoxy](https://www.whoxy.com) |
+| User-Agent Switcher for Chrome    | [NSLookup](https://www.nslookup.io) |
+| Alicent for ChatGPT               | [Onyphe](https://www.onyphe.io) |
+| MARCADORES PARA NAVEGADORES       | [Search4Faces](https://search4faces.com) |
+| OSINT METADATOS ONLINE            | [Webmii](https://webmii.com) |
+| [dcode.fr](https://www.dcode.fr/exif-data) | [Spokeo](https://www.spokeo.com) |
+| [exifdata.com](https://exifdata.com/) | |
+| [metadata2go.com](https://www.metadata2go.com/view-metadata) | **Análisis de Redes** |
+| [exifinfo.org](https://exifinfo.org) | [FOFA](https://en.fofa.info/) |
+| [stolencamerafinder.com](https://www.stolencamerafinder.com/) | |
+| ANÁLISIS ONLINE                   | **Whois y Dominios** |
+| [urlscan.io](https://urlscan.io/) | [WhoisXMLAPI](https://whois.whoisxmlapi.com) |
+| [crt.sh](https://crt.sh/)         | [Whois Domain Tools](https://whois.domaintools.com) |
+| [ping.pe](https://ping.pe/)       | [Whoxy](https://www.whoxy.com) |
+| [web-check.xyz](https://web-check.xyz/) | [NSLookup](https://www.nslookup.io) |
+| [app.netlas.io/host/](https://app.netlas.io/host/) | [Onyphe](https://www.onyphe.io) |
+| [ipinfo.io](https://ipinfo.io/)   | [Search4Faces](https://search4faces.com) |
+| [myip.ms](https://myip.ms/)       | [Webmii](https://webmii.com) |
+| [grabify.link](https://grabify.link/) | [Spokeo](https://www.spokeo.com) |
+| [iplogger.org/es/](https://iplogger.org/es/) | |
+| PERSONAS Y PERFILES               | CACHE E HISTÓRICOS |
+| [Search4Faces](https://search4faces.com) | [CachedView](https://cachedview.nl/) |
+| [Webmii](https://webmii.com)      | [Archive.org](https://archive.org/) |
+| [Spokeo](https://www.spokeo.com)  | |
+| LEAKS Y FUGAS                     | EMAILS |
+| [Pastebin](https://pastebin.com/) | [Hunter.io](https://hunter.io) |
+| [Leak-Lookup](https://leak-lookup.com/) | [Epieos](https://epieos.com) |
+| [Breachdirectory.org](https://breachdirectory.org) | [OSINT Industries](https://osint.industries) |
+| [Have I Been Pwned](https://haveibeenpwned.com) | [Synapsint](https://www.synapsint.com) |
+| [LeakCheck.io](https://leakcheck.io) | [Gmail OSINT](https://gmail-osint.activetk.jp/) |
+| EMAILS                            | [MailTester](https://mailtester.com/en/) |
+| [Hunter.io](https://hunter.io)    | [Defastra](https://defastra.com/) |
+| [Epieos](https://epieos.com)      | [Seon.io](https://seon.io/es/) |
+| [OSINT Industries](https://osint.industries) | |
+| LEAKS Y FUGAS                     | Cabeceras de Correo |
+| [Pastebin](https://pastebin.com/) | [Google Apps Toolbox](https://toolbox.googleapps.com/apps/messageheader/) |
+| [Leak-Lookup](https://leak-lookup.com/) | [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx) |
+| [Breachdirectory.org](https://breachdirectory.org) | [Email Analyze](https://email-analyze.activetk.jp/) |
+| [Have I Been Pwned](https://haveibeenpwned.com) | SOCK PUPPET Y HUELLA DIGITAL |
+| [LeakCheck.io](https://leakcheck.io) | [Namelix](https://namelix.com/) |
+| Cabeceras de Correo              | [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) |
+| [Google Apps Toolbox](https://toolbox.googleapps.com/apps/messageheader/) | [Photopea](https://www.photopea.com/) |
+| [MXToolbox](https://mxtoolbox.com/EmailHeaders.aspx) | Teléfonos Temporales |
+| [Email Analyze](https://email-analyze.activetk.jp/) | [HS3X](https://hs3x.com/) |
+| SOCK PUPPET Y HUELLA DIGITAL     | [SMSGet](https://smsget.net/free/en/) |
+| [Namelix](https://namelix.com/)  | [ReceiveSMSOnline](https://www.receivesmsonline.net/) |
+| [This Person Does Not Exist](https://www.thispersondoesnotexist.com/) | [ReceiveSMSOnline](https://www.receivesmsonline.net/) |
+| [Photopea](https://www.photopea.com/) | [MailDrop](https://maildrop.cc/) |
+| Teléfonos Temporales              | Huella Digital |
+| [HS3X](https://hs3x.com/)         | [Am I Unique](https://amiunique.org/fingerprint) |
+| [SMSGet](https://smsget.net/free/en/) | [Cover Your Tracks](https://coveryourtracks.eff.org/) |
+| [ReceiveSMSOnline](https://www.receivesmsonline.net/) | [Social Media Leak](https://robinlinus.github.io/socialmedia-leak/) |
+| [ReceiveSMSOnline](https://www.receivesmsonline.net/) | [Browser Leaks](https://browserleaks.com/) |
+| [MailDrop](https://maildrop.cc/)  | Correos Electrónicos Temporales |
+| Huella Digital                    | [EmailOnDeck](https://www.emailondeck.com/) |
+| [Am I Unique](https://amiunique.org/fingerprint) | [Temp-Mail](https://temp-mail.org/es/) |
+| [Cover Your Tracks](https://coveryourtracks.eff.org/) | [Tempr.Email](https://tempr.email/) |
+| [Social Media Leak](https://robinlinus.github.io/socialmedia-leak/) | [Maildrop.cc](https://maildrop.cc/) |
+| [Browser Leaks](https://browserleaks.com/) | Motores de Búsqueda |
+| Correos Electrónicos Temporales   | [Yahoo](https://www.yahoo.com/) |
+| [EmailOnDeck](https://www.emailondeck.com/) | [Ask](https://www.ask.com/) |
+| [Temp-Mail](https://temp-mail.org/es/) | [DuckDuckGo](https://duckduckgo.com/) |
+| [Tempr.Email](https://tempr.email/) | [Yandex](https://yandex.com/) |
+| [Maildrop.cc](https://maildrop.cc/) | [Carrot2](https://search.carrot2.org/#/search/web) |
+| Motores de Búsqueda               | [Qwant](https://www.qwant.com/) |
+| [Yahoo](https://www.yahoo.com/)   | [Ecosia](https://www.ecosia.org/) |
+| [Ask](https://www.ask.com/)       | [Million Short](https://millionshort.com/) |
+| [DuckDuckGo](https://duckduckgo.com/) | [Ahmia](https://ahmia.fi/) |
+| [Yandex](https://yandex.com/)     | THREAT INTELLIGENCE |
+| [Carrot2](https://search.carrot2.org/#/search/web) | [VirusTotal](https://www.virustotal.com/gui/home/upload) |
+| [Qwant](https://www.qwant.com/)   | [AlienVault OTX](https://otx.alienvault.com) |
+| [Ecosia](https://www.ecosia.org/) | [Hybrid Analysis](https://www.hybrid-analysis.com) |
+| [Million Short](https://millionshort.com/) | [Abuse.ch Bazaar](https://bazaar.abuse.ch/browse) |
+| [Ahmia](https://ahmia.fi/)        | [MITRE ATT&CK](https://attack.mitre.org) |
+| THREAT INTELLIGENCE               | [Criminal IP](https://www.criminalip.io) |
+| [VirusTotal](https://www.virustotal.com/gui/home/upload) | [IPQualityScore](https://www.ipqualityscore.com/) |
+| [AlienVault OTX](https://otx.alienvault.com) | [DarkFeed](https://darkfeed.io) |
+| [Hybrid Analysis](https://www.hybrid-analysis.com) | [SocRadar](https://socradar.io) |
+| [Abuse.ch Bazaar](https://bazaar.abuse.ch/browse) | [IPinfo](https://ipinfo.io/) |
+| [MITRE ATT&CK](https://attack.mitre.org) | [Intelx](https://intelx.io) |
+| [Criminal IP](https://www.criminalip.io) | [BrowserLeaks](https://browserleaks.com/) |
+| [IPQualityScore](https://www.ipqualityscore.com/) | **OTRAS HERRAMIENTAS** |
+| [DarkFeed](https://darkfeed.io)   | [ThumbnailSave](https://thumbnailsave.com/) |
+| [SocRadar](https://socradar.io)  | [Dedigger](https://www.dedigger.com) |
+| [IPinfo](https://ipinfo.io/)      | [IMEI Info](https://www.imei.info/) |
+| [Intelx](https://intelx.io)       | [JustDeleteMe](https://justdeleteme.xyz/es) |
+| [BrowserLeaks](https://browserleaks.com/) | [SpyCloud](https://spycloud.com/) |
+| **OTRAS HERRAMIENTAS**            | [RIPE Fulltext Search](https://apps.db.ripe.net/db-web-ui/fulltextsearch) |
+| [ThumbnailSave](https://thumbnailsave.com/) | [DarkWeb Archive](https://darkweb-archive.activetk.jp/) |
+| [Dedigger](https://www.dedigger.com) | [JSONCrack](https://jsoncrack.com/) |
+| [IMEI Info](https://www.imei.info/) | [Exploit-DB](https://www.exploit-db.com/) |
+| [JustDeleteMe](https://justdeleteme.xyz/es) | [Base64Decode](https://www.base64decode.org/) |
+| [SpyCloud](https://spycloud.com/) | [Map Malfrats](https://map.malfrats.industries/) |
+| [RIPE Fulltext Search](https://apps.db.ripe.net/db-web-ui/fulltextsearch) | [DeepfakeDetector](https://deepfakedetector.ai/) |
+| [DarkWeb Archive](https://darkweb-archive.activetk.jp/) | [Any.Run](https://app.any.run/) |
+
+# 🔗 17. DESCARGA OVA "WILL-KALI" 👾
 -------------------------------
 
