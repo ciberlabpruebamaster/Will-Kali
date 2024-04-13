@@ -713,7 +713,7 @@ Encuentra perfiles vinculados a un nombre completo.
 | UltraSurf Security, Privacy & Unblock VPN | Unstoppable Extension |
 | User-Agent Switcher for Chrome | What font - font Finder        |
 | Alicent for ChatGPT            | Url Shortener                  |
-| **Marcadores para Navegadores**| **Marcadores para Navegadores** |
+| **MARCADORES PARA NAVEGADORES**| **MARCADORES PARA NAVEGADORES** |
 | OSINT METADATOS ONLINE         | INFORMACION IP + DNS ONLINE    |
 | [dcode.fr](https://www.dcode.fr/exif-data) | [hackertarget.com](https://hackertarget.com/) |
 | [exifdata.com](https://exifdata.com/) | [shodan.io](https://www.shodan.io/) |
@@ -745,24 +745,24 @@ Encuentra perfiles vinculados a un nombre completo.
 | [epieos.com](https://epieos.com) | [mailtester.com/en/](https://mailtester.com/en/) |
 | [osint.industries](https://osint.industries) | [defastra.com](https://defastra.com/) |
 | [synapsint.com](https://www.synapsint.com) | [seon.io/es/](https://seon.io/es/) |
-| **Cabeceras de Correo**        | **Geolocalización**            |
+| **CABECERAS DE CORREO**        | **GEOLOCALIZACIÓN**            |
 | [toolbox.googleapps.com/apps/messageheader/](https://toolbox.googleapps.com/apps/messageheader/) | [osm-search.bellingcat.com/](https://osm-search.bellingcat.com/) |
 | [mxtoolbox.com/EmailHeaders.aspx](https://mxtoolbox.com/EmailHeaders.aspx) | [geospy.web.app/](https://geospy.web.app/) |
 | [email-analyze.activetk.jp/](https://email-analyze.activetk.jp/) | [www.geocreepy.com/](https://www.geocreepy.com/) |
 | **SOCK PUPPET Y HUELLA DIGITAL** | -                              |
-| **Creación de Perfiles "Fake"**| **Creación de Perfiles "Fake"**|
+| **CREACIÓN PERFILES FAKE**| **CREACIÓN PERFILES FAKE**|
 | [namelix.com](https://namelix.com/) | [fakenamegenerator.com/?ref=hackernoon.com](https://www.fakenamegenerator.com/?ref=hackernoon.com) |
 | [thispersondoesnotexist.com/?ref=hackernoon.com](https://www.thispersondoesnotexist.com/?ref=hackernoon.com) | [photopea.com/?ref=hackernoon.com](https://www.photopea.com/?ref=hackernoon.com) |
-| **Teléfonos Temporales**       | **Teléfonos Temporales**       |
+| **TELÉFONOS TEMPORALES**       | **TELÉFONOS TEMPORALES**       |
 | [hs3x.com/](https://hs3x.com/) | [smsget.net/free/en/](https://smsget.net/free/en/) |
 | [receivesmsonline.net/](https://www.receivesmsonline.net/) | [receivesmsonline.me/](https://receivesmsonline.me/) |
-| **Huella Digital**             | **Huella Digital**             |
+| **HUELLA DIGITAL**             | **HUELLA DIGITAL**             |
 | [amiunique.org/fingerprint](https://amiunique.org/fingerprint) | [coveryourtracks.eff.org/](https://coveryourtracks.eff.org/) |
 | [robinlinus.github.io/socialmedia-leak/](https://robinlinus.github.io/socialmedia-leak/) | [browserleaks.com/](https://browserleaks.com/) |
-| **Correos Electrónicos Temporales** | **Correos Electrónicos Temporales** |
+| **CORREOS ELECT. TEMPORALES** | **CORREOS ELECT. TEMPORALES** |
 | [emailondeck.com/](https://www.emailondeck.com/) | [temp-mail.org/es/](https://temp-mail.org/es/) |
 | [tempr.email/](https://tempr.email/) | [maildrop.cc/](https://maildrop.cc/) |
-| **Motores de Búsqueda**        | **Motores de Búsqueda**        |
+| **MOTORES BÚSQUEDA**        | **MOTORES BÚSQUEDA**        |
 | [yahoo.com/](https://www.yahoo.com/) | [ask.com/](https://www.ask.com/) |
 | [duckduckgo.com/](https://duckduckgo.com/) | [yandex.com/](https://yandex.com/) |
 | [search.carrot2.org/#/search/web](https://search.carrot2.org/#/search/web) | [qwant.com/](https://www.qwant.com/) |
