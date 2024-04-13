@@ -80,7 +80,7 @@ En TorBrowser, no se admiten extensiones para preservar el anonimato y la privac
 
 En esta sección, se destaca la importancia de contar con un sistema de marcadores organizados para la navegación efectiva en el ámbito de la ciberinteligencia. Se recomienda el uso de la plataforma https://start.me/ para crear un repositorio de marcadores accesible desde cualquier navegador compatible, como Brave y Chromium. Los marcadores se organizan por familias para facilitar su acceso y utilización.
 
-### 2.1. OSINT METADATOS ONLINE ♊
+### 2.1. OSINT METADATOS ONLINE 
 Se proporciona una lista de herramientas y recursos en línea para analizar metadatos de imágenes, lo que incluye la identificación y eliminación de metadatos, así como la realización de búsquedas avanzadas utilizando operadores booleanos. Entre las herramientas destacadas se encuentran:
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/4859b36e-1680-4420-a2ca-0a49efea44dd)
@@ -96,7 +96,7 @@ Se proporciona una lista de herramientas y recursos en línea para analizar meta
   
 Estas herramientas permiten analizar metadatos de imágenes y encontrar cámaras fotográficas robadas mediante el análisis de los metadatos EXIF.
 
-### 2.2. INFORMACION IP + DNS ONLINE ⚙
+### 2.2. INFORMACION IP + DNS ONLINE 
 
 Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
 
@@ -126,7 +126,7 @@ Debemos mencionar varias herramientas en línea, como DNSDumpster, Netcraft y Ro
  
 
 
-### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES 🛜
+### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b34ee8c8-b39c-414c-81da-89f39058e9a5)
 
 Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
@@ -511,7 +511,7 @@ Ofrece información sobre actores de amenazas recopilada por la ETDA, una agenci
 - Intezer: 
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
-# 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:  🗜
+# 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS  🗜
 -------------------------------
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/97919f30-67bb-45cc-a316-ab60104ac851)
 
@@ -557,7 +557,7 @@ Herramienta contra la desinformación de la IA para detectar deepfakes en audio 
 ####         •	Any.Run: 
 Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
 
-# 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS: 🈲
+# 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS 🈲
 -------------------------------
 
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
