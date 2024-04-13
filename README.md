@@ -197,7 +197,15 @@ En esta sección, se presentan diversas herramientas y servicios en línea relac
 - Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
 - Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
 # 🔗 5. BÚSQUEDA PERSONAS Y PERFILES
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c837f71f-ecb9-484c-ae1e-31a20bf478a4)
+
 En esta sección se presentan herramientas y plataformas en línea que permiten buscar información sobre personas y perfiles en internet. A continuación, se detallan las herramientas mencionadas:
+
+- https://search4faces.com
+- https://webmii.com
+- https://www.spokeo.com
+
 ### 5.1. search4faces.com
 - Es un formulario de búsqueda de fotos de perfil de VKontakte.
 - Utiliza reconocimiento facial, inteligencia artificial y aprendizaje automático para realizar una búsqueda inversa de imágenes.
@@ -210,9 +218,19 @@ En esta sección se presentan herramientas y plataformas en línea que permiten 
 - Ofrece acceso a información pública y datos de búsqueda de personas.
 - Recopila datos de fuentes públicas como registros gubernamentales, redes sociales y directorios telefónicos para crear perfiles de personas.
 - Proporciona detalles de contacto, historial de direcciones, perfiles en redes sociales, historial laboral y educativo, historial criminal (si está disponible públicamente), fotos y videos asociados con la persona.
-Estas herramientas pueden ser útiles para buscar información sobre individuos, monitorear la reputación en línea y obtener detalles de contacto, entre otros usos. 
+Estas herramientas pueden ser útiles para buscar información sobre individuos, monitorear la reputación en línea y obtener detalles de contacto, entre otros usos.
+
+
 # 🔗 6. CACHE E HISTÓRICOS
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2c831971-e1b3-43fc-a6e9-5b904e87aa86)
+
 En esta sección, se presentan herramientas y servicios en línea relacionados con el acceso a versiones en caché de páginas web y la preservación de la historia de internet. A continuación, se detallan las herramientas mencionadas:
+
+- https://cachedview.nl/
+- https://archive.org/
+
+
 ### 6.1. cachedview.nl
 - Ofrece acceso a versiones en caché de páginas web.
 - Permite a los usuarios ingresar una URL de página web y buscar versiones en caché disponibles.
@@ -229,7 +247,15 @@ Estas herramientas son útiles para acceder a versiones anteriores de páginas w
 
 
 # 🔗 7. LEAKS Y FUGAS
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/64d7b417-2adb-4ec5-9bbc-6d38c3856d94)
+
 En esta sección, se presentan herramientas y servicios en línea relacionados con la detección y verificación de fugas de datos. A continuación, se describen las herramientas mencionadas:
+
+- https://pastebin.com/
+- https://leak-lookup.com/
+
+
 ### 7.1. pastebin.com
 - Es un sitio web que permite a los usuarios compartir texto de forma anónima.
 - Los usuarios pueden pegar cualquier tipo de texto en el sitio y generar un enlace único para compartirlo con otros.
@@ -247,8 +273,16 @@ Estas herramientas son útiles para detectar y verificar la presencia de datos f
 
 
 
-# 🔗 8. LEAKS Y FUGAS
+# 🔗 8. LEAKS Y FUGAS 2
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/bf77695a-9690-4780-a953-aef37d3db654)
+
 Aquí hay más herramientas y servicios relacionados con la detección y verificación de fugas de datos:
+
+- https://haveibeenpwned.com
+- https://leakcheck.io
+- https://breachdirectory.org
+
 ### 8.1. haveibeenpwned.com
 - Creado por el experto en seguridad Troy Hunt, permite a los usuarios verificar si sus direcciones de correo electrónico o contraseñas han sido comprometidas en alguna filtración de datos.
 - Recopila datos de múltiples brechas de seguridad y permite búsquedas para determinar si los datos personales han sido comprometidos.
