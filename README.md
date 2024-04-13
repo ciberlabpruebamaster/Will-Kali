@@ -538,6 +538,11 @@ Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionado
 #### 13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
 #### 13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE: 
+- https://www.ipqualityscore.com/:
+- https://polyswarm.io/:
+- https://apt.etda.or.th/cgi-bin/aptgroups.cgi
+- https://intezer.com/
+
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/0b67fa5f-335a-4ead-86f3-bcbbc7b6dba2)
 
 - IPQualityScore: 
@@ -551,6 +556,28 @@ Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de ni
 
 # 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS  🗜
 -------------------------------
+
+- https://thumbnailsave.com/
+- https://www.dedigger.com
+- https://www.expandurl.net/ 
+- https://www.imei.info/
+- https://justdeleteme.xyz/es
+- https://spycloud.com/
+- https://apps.db.ripe.net/db-web-ui/fulltextsearch 
+- https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit?pli=1#gid=0  
+- https://jsoncrack.com/ 
+- https://darkweb-archive.activetk.jp/ 
+- https://blackbird-osint.herokuapp.com/
+- https://whopostedwhat.com/ 
+- https://anonstories.com/ 
+- https://twitter.com/search-advanced?lang=es 
+- https://www.exploit-db.com/ 
+- https://osintframework.com/
+- https://www.base64decode.org/
+- https://map.malfrats.industries/  
+- https://deepfakedetector.ai/ 
+- https://app.any.run/
+
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/97919f30-67bb-45cc-a316-ab60104ac851)
 
 En esta sección se presentan diversas herramientas online que pueden ser útiles en la vida diaria de un analista:
