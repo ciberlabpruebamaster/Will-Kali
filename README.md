@@ -4,18 +4,18 @@ Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada 
 # 🔗 1. NAVEGADORES WEB 🌐
 ![2](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1fb44977-02e7-4c63-aa60-b1cd80390ecd)
 
-Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. Para mí, por orden de importancia:
+Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. Para mí, por orden de importancia y funcionamiento:
 
 #### 1º. Brave.
 #### 2º. Chromium.
 #### 3º. Firefox.
 #### 4º. Tor (imprescindible en DeepWeb).
 
-### 1.1. FIREFOX 
+## 1.1. FIREFOX 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5806a5e4-65c7-4363-8f96-68a0793e2814)
 
-Importante destacar las extensiones que se usan en este NAVEGADOR: 
+🧩 Importante destacar las extensiones que se usan en este NAVEGADOR: 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/ee1548fc-503e-4118-a0d0-12a01768e6f2)
 
@@ -31,12 +31,12 @@ Importante destacar las extensiones que se usan en este NAVEGADOR:
 -	Search by Image
 -	Hunter - Email Finder Extension
 
-### 1.2. BRAVE y CHROMIUM
+## 1.2. BRAVE y CHROMIUM
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1d78842a-190b-4a77-8885-16b78c6a19f3)
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/14dc0b83-d4f2-4e2d-8060-0c069f92c49a)
 
-Estos 2 NAVEGADORES, al estar ambos basados en tecnología muy similar, comparten idénticas extensiones: 
+🧩 Estos 2 NAVEGADORES, al estar ambos basados en tecnología muy similar, comparten idénticas extensiones: 
 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/e3a81866-28e2-4e47-961e-ff8f357d7499)
@@ -59,7 +59,7 @@ Estos 2 NAVEGADORES, al estar ambos basados en tecnología muy similar, comparte
 -	Alicent for ChatGPT 
 -	Url Shortener
 
-### 1.3. TorBrowser
+## 1.3. TorBrowser
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/cbaeca5f-bd72-4975-8037-9db29da0d6da)
 
@@ -74,19 +74,24 @@ Se proporciona una lista de herramientas y recursos en línea para analizar meta
   
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/65e189f0-9deb-469a-84c0-7c8f2e36de15)
 
+
 - https://exifdata.com/
   
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03efae84-fdc2-40c8-a458-45f3b0c082f0)
+
 
 - https://www.metadata2go.com/view-metadata
   
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b9a00663-3d48-41d9-b0ac-eaf75e4a3dbd)
 
+
 - https://exifinfo.org
   
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/ec076ef5-1fe1-4906-93f0-f0124db7f856)
 
+
 - https://www.stolencamerafinder.com/
+
   
   ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/85f2abf2-1386-46d4-84c7-cf089f4b1abd)
 
