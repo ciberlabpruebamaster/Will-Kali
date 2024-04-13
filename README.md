@@ -18,7 +18,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 #### - 3º. Firefox.
 #### - 4º. Tor (imprescindible en DeepWeb).
 
-## 1.1. FIREFOX 
+## 1.1. FIREFOX 🌐
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d1860bc9-3c89-4e9d-bbad-2a9d10be1904)
 
@@ -39,7 +39,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 -	Search by Image
 -	Hunter - Email Finder Extension
 
-## 1.2. BRAVE y CHROMIUM
+## 1.2. BRAVE y CHROMIUM 🌐
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/974a3f58-bc3b-4f6e-9f2f-09dbf3a40094)
 
@@ -67,20 +67,20 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 -	Alicent for ChatGPT 
 -	Url Shortener
 
-## 1.3. TorBrowser
+## 1.3. TorBrowser 🌐
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/83759903-2808-4959-81d5-1d89944473fe)
 
 En TorBrowser, no se admiten extensiones para preservar el anonimato y la privacidad, ya que su uso podría comprometer estas características fundamentales. No son necesarias de hecho.
 
-# 🔗 2. MARCADORES PARA NAVEGADORES
+# 🔗 2. MARCADORES PARA NAVEGADORES ⭐
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/a75399c4-5a85-4daa-8c9f-4d257d45ed7b)
 
 En esta sección, se destaca la importancia de contar con un sistema de marcadores organizados para la navegación efectiva en el ámbito de la ciberinteligencia. Se recomienda el uso de la plataforma https://start.me/ para crear un repositorio de marcadores accesible desde cualquier navegador compatible, como Brave y Chromium. Los marcadores se organizan por familias para facilitar su acceso y utilización.
 
-### 2.1. OSINT METADATOS ONLINE
+### 2.1. OSINT METADATOS ONLINE ♊
 Se proporciona una lista de herramientas y recursos en línea para analizar metadatos de imágenes, lo que incluye la identificación y eliminación de metadatos, así como la realización de búsquedas avanzadas utilizando operadores booleanos. Entre las herramientas destacadas se encuentran:
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/4859b36e-1680-4420-a2ca-0a49efea44dd)
@@ -96,7 +96,7 @@ Se proporciona una lista de herramientas y recursos en línea para analizar meta
   
 Estas herramientas permiten analizar metadatos de imágenes y encontrar cámaras fotográficas robadas mediante el análisis de los metadatos EXIF.
 
-### 2.2. INFORMACION IP + DNS ONLINE
+### 2.2. INFORMACION IP + DNS ONLINE ⚙
 
 Se presenta una lista de herramientas y servicios en línea relacionados con la seguridad informática y las pruebas de penetración. Destacan:
 
@@ -107,10 +107,10 @@ Se presenta una lista de herramientas y servicios en línea relacionados con la 
   
 Estas plataformas ofrecen diversas herramientas para escanear puertos, detectar vulnerabilidades, enumerar subdominios, explorar dispositivos conectados a Internet y monitorizar la infraestructura de red, imprescindibles para analistas de inteligencia.
 
-### 2.3. API Y HERRAMIENTAS DE ANÁLISIS
+### 2.3. API Y HERRAMIENTAS DE ANÁLISIS 
 Esta sección se centra en las herramientas y servicios disponibles para el análisis de información en línea, así como en la integración de la funcionalidad de Shodan a través de su API. Se describen los siguientes aspectos:
 
-### 2.3.1. API DE SHODAN
+### 2.3.1. API DE SHODAN 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/03861094-a958-402e-95ec-c456c03b246c)
 
 Se destaca la API ofrecida por Shodan, que permite a los desarrolladores integrar la funcionalidad de Shodan en sus propias aplicaciones y herramientas. Esto les permite realizar búsquedas y obtener información sobre dispositivos conectados a Internet de manera programática.
@@ -126,7 +126,7 @@ Debemos mencionar varias herramientas en línea, como DNSDumpster, Netcraft y Ro
  
 
 
-### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES
+### 2.3.3. HERRAMIENTAS DE ANÁLISIS DE REDES 🛜
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b34ee8c8-b39c-414c-81da-89f39058e9a5)
 
 Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcionalidades para el análisis de redes y la recopilación de datos sobre actividad maliciosa en Internet. Estas herramientas proporcionan visualizaciones de datos en tiempo real sobre amenazas en línea y ayudan a las organizaciones a protegerse contra amenazas cibernéticas.
@@ -134,7 +134,7 @@ Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcion
 - https://viz.greynoise.io/
 - https://en.fofa.info/
 
-# 🔗 3. HERRAMIENTAS DE ANÁLISIS ONLINE
+# 🔗 3. HERRAMIENTAS DE ANÁLISIS ONLINE  🔍
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/26275922-7e30-4b4d-8035-eca914992cb0)
@@ -172,7 +172,7 @@ Esta parte destaca una serie de herramientas en línea que son útiles para anal
 - Servicios de acortamiento de URL con análisis avanzados para el tráfico a través de sus enlaces.
 - Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
 
-# 🔗 4. WHOIS Y DOMINIOS
+# 🔗 4. WHOIS Y DOMINIOS 🟡
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c6311e72-71ef-42a6-805f-823cd6c4c8a0)
@@ -201,7 +201,7 @@ En esta sección, se presentan diversas herramientas y servicios en línea relac
 - Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
 - Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
   
-# 🔗 5. BÚSQUEDA PERSONAS Y PERFILES
+# 🔗 5. BÚSQUEDA PERSONAS Y PERFILES 👤
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c837f71f-ecb9-484c-ae1e-31a20bf478a4)
@@ -227,7 +227,7 @@ En esta sección se presentan herramientas y plataformas en línea que permiten 
 Estas herramientas pueden ser útiles para buscar información sobre individuos, monitorear la reputación en línea y obtener detalles de contacto, entre otros usos.
 
 
-# 🔗 6. CACHE E HISTÓRICOS
+# 🔗 6. CACHE E HISTÓRICOS 🛑
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2c831971-e1b3-43fc-a6e9-5b904e87aa86)
@@ -253,7 +253,7 @@ Estas herramientas son útiles para acceder a versiones anteriores de páginas w
 
 
 
-# 🔗 7. LEAKS Y FUGAS
+# 🔗 7. LEAKS Y FUGAS 🔐
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/64d7b417-2adb-4ec5-9bbc-6d38c3856d94)
@@ -281,7 +281,7 @@ Estas herramientas son útiles para detectar y verificar la presencia de datos f
 
 
 
-# 🔗 8. LEAKS Y FUGAS 2
+# 🔗 8. LEAKS Y FUGAS 2 🔐
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/bf77695a-9690-4780-a953-aef37d3db654)
@@ -313,7 +313,8 @@ Aquí hay más herramientas y servicios relacionados con la detección y verific
 - Ofrece la opción de suscribirse para recibir notificaciones sobre nuevas violaciones de datos.
 - Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
 Estas herramientas son útiles para ayudar a los usuarios a proteger su información personal y su seguridad en línea al verificar si han sido afectados por filtraciones de datos
-# 🔗 9. EMAILS 
+
+# 🔗 9. EMAILS 📧
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2a97bd56-6ef4-4f0a-9df1-8db3a86b6f2c)
@@ -376,7 +377,7 @@ Detallamos cada una de estas plataformas, y cómo pueden ayudarnos en analísis,
 - defastra.com: Plataforma para buscar información y convertirla en inteligencia a través de herramientas online en fuentes abiertas.
 - seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
   
-# 🔗 10. Análisis de Cabeceras de Correo
+# 🔗 10. Análisis de Cabeceras de Correo 📨
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/6ce4c83d-332f-4aee-a9c4-3ca09a1d001f)
@@ -393,7 +394,7 @@ Algunas de estas herramientas a destacar son:
 - mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
 - email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
   
-# 🔗 11. Búsqueda Inversa - Geolocalización
+# 🔗 11. Búsqueda Inversa - Geolocalización 📍
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/f5a0d3ae-c306-4d71-b086-0e2bf28aa0e9)
@@ -410,7 +411,7 @@ Sus principales características son:
 - geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
 - geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
   
-# 🔗 12. SOCK PUPPET Y HUELLA DIGITAL
+# 🔗 12. SOCK PUPPET Y HUELLA DIGITAL 🐾
 -------------------------------
 
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
@@ -458,7 +459,7 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - MillionShort: Un motor de búsqueda que permite a los usuarios eliminar los sitios web populares de los resultados de búsqueda.
 - Ahmia: Un motor de búsqueda que indexa contenido en la web oscura y anónima.
 
-# 🔗 13. THREAT INTELLIGENCE
+# 🔗 13. THREAT INTELLIGENCE 🦠
 -------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d8b0faa2-f156-4c4f-9002-2a653f98895e)
@@ -498,7 +499,7 @@ Es una plataforma que ofrece servicios de investigación y análisis de direccio
 Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionados con la ciberseguridad. Ofrece información sobre amenazas emergentes, actividad en la web oscura, análisis de tendencias, integraciones con herramientas de seguridad y alertas y notificaciones para mejorar la detección y respuesta a amenazas.
 #### 13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
-#### 13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
+#### 13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE: 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/0b67fa5f-335a-4ead-86f3-bcbbc7b6dba2)
 
 - IPQualityScore: 
@@ -510,7 +511,7 @@ Ofrece información sobre actores de amenazas recopilada por la ETDA, una agenci
 - Intezer: 
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
-# 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:
+# 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:  🗜
 -------------------------------
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/97919f30-67bb-45cc-a316-ab60104ac851)
 
@@ -556,7 +557,7 @@ Herramienta contra la desinformación de la IA para detectar deepfakes en audio 
 ####         •	Any.Run: 
 Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
 
-# 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS:
+# 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS: 🈲
 -------------------------------
 
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
