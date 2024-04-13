@@ -693,7 +693,7 @@ Encuentra más información sobre los correos electrónicos tomando como referen
 ####     • Searchfy: 
 Encuentra perfiles vinculados a un nombre completo.
 
-# 🔗 16. RESUMEN HERRAMIENTAS "WILL-KALI" 👾
+# 🔗 16. RESUMEN HERRAMIENTAS "WILL-KALI" 💬
 
 ## Herramientas de OSINT
 
