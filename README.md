@@ -420,6 +420,12 @@ Sus principales características son:
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
 
 #### 12.1. Creación de Perfiles "Fake"
+
+- https://namelix.com/
+- https://www.fakenamegenerator.com/?ref=hackernoon.com
+- https://www.thispersondoesnotexist.com/?ref=hackernoon.com
+- https://www.photopea.com/?ref=hackernoon.com
+  
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/11749471-3a54-4a80-b83f-ea49c32084e6)
 
 - Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
@@ -428,12 +434,24 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - Photopea: Herramienta de edición de fotos para manipular imágenes.
   
 #### 12.2. Teléfonos Temporales
+
+- https://hs3x.com/ 
+- https://smsget.net/free/en/
+- https://www.receivesmsonline.net/
+- https://receivesmsonline.me/
+  
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/3b9a0b0f-d696-4bf1-8bfd-d9e9ad5582d2)
 
 - HS3X: Proporciona números de teléfono temporales para verificación y comunicación temporal.
 - SMSGet: Ofrece números de teléfono virtuales para recibir mensajes temporales.
 - Receive SMS Online: Permite recibir mensajes en números temporales en línea.
+  
 #### 12.3. Huella Digital
+- https://amiunique.org/fingerprint
+- https://coveryourtracks.eff.org/ 
+- https://robinlinus.github.io/socialmedia-leak/
+- https://browserleaks.com/
+  
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/6d6c1bd2-a9db-4cf7-a8e1-7de3bf9768d8)
 
 - AmIUnique: Herramienta para comprobar la unicidad de la huella digital de un navegador.
@@ -442,6 +460,11 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - BrowserLeaks: Detecta información técnica que puede ser filtrada por el navegador web.
   
 #### 12.4. Correos Electrónicos Temporales
+- https://www.emailondeck.com/
+- https://temp-mail.org/es/
+- https://tempr.email/ 
+- https://maildrop.cc/
+
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/132536a0-298e-4986-ae56-c0a92a381caa)
 
 - Email On Deck: Ofrece direcciones de correo electrónico temporales para verificación en línea.
@@ -449,6 +472,18 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
 
 #### 12.5. Motores de Búsqueda
+
+- https://www.yahoo.com/
+- https://www.ask.com/ 
+- https://duckduckgo.com/
+- https://yandex.com/
+- https://search.carrot2.org/#/search/web
+- https://www.qwant.com/
+- https://gibiru.com/
+- https://www.ecosia.org/
+- https://millionshort.com/
+- https://ahmia.fi/
+  
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/3d46242c-76cf-4aa0-a119-5ccc648573b8)
 
 - Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
