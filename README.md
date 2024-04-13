@@ -560,7 +560,7 @@ Herramienta contra la desinformación de la IA para detectar deepfakes en audio 
 ####         •	Any.Run: 
 Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
 
-# 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS 🈲
+# 🔗 15. ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS 🈲
 -------------------------------
 
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
@@ -612,4 +612,6 @@ Encuentra más información sobre los correos electrónicos tomando como referen
 ####     • Searchfy: 
 Encuentra perfiles vinculados a un nombre completo.
 
+# 🔗 16. DESCARGA OVA "WILL-KALI" 👾
+-------------------------------
 
