@@ -7,6 +7,7 @@ Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada 
 
 
 # 🔗 1. NAVEGADORES WEB 🌐
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2e42736c-d997-4f9e-9a6c-a9f99bfc1260)
 
@@ -73,6 +74,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 En TorBrowser, no se admiten extensiones para preservar el anonimato y la privacidad, ya que su uso podría comprometer estas características fundamentales. No son necesarias de hecho.
 
 # 🔗 2. MARCADORES PARA NAVEGADORES
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/a75399c4-5a85-4daa-8c9f-4d257d45ed7b)
 
@@ -133,6 +135,7 @@ Se deben tener en cuenta herramientas como Greynoise y FOFA, que ofrecen funcion
 - https://en.fofa.info/
 
 # 🔗 3. HERRAMIENTAS DE ANÁLISIS ONLINE
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/26275922-7e30-4b4d-8035-eca914992cb0)
 
@@ -170,6 +173,7 @@ Esta parte destaca una serie de herramientas en línea que son útiles para anal
 - Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
 
 # 🔗 4. WHOIS Y DOMINIOS
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c6311e72-71ef-42a6-805f-823cd6c4c8a0)
 
@@ -196,7 +200,9 @@ En esta sección, se presentan diversas herramientas y servicios en línea relac
 ### 4.5. onyphe.io
 - Plataforma de inteligencia de amenazas en línea que recopila y analiza datos de seguridad cibernética de diversas fuentes.
 - Ofrece funciones como recopilación de datos, análisis de amenazas, investigación de seguridad y una API para integrar datos de inteligencia de amenazas en herramientas y sistemas de seguridad cibernética.
+  
 # 🔗 5. BÚSQUEDA PERSONAS Y PERFILES
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c837f71f-ecb9-484c-ae1e-31a20bf478a4)
 
@@ -222,6 +228,7 @@ Estas herramientas pueden ser útiles para buscar información sobre individuos,
 
 
 # 🔗 6. CACHE E HISTÓRICOS
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2c831971-e1b3-43fc-a6e9-5b904e87aa86)
 
@@ -247,6 +254,7 @@ Estas herramientas son útiles para acceder a versiones anteriores de páginas w
 
 
 # 🔗 7. LEAKS Y FUGAS
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/64d7b417-2adb-4ec5-9bbc-6d38c3856d94)
 
@@ -274,6 +282,7 @@ Estas herramientas son útiles para detectar y verificar la presencia de datos f
 
 
 # 🔗 8. LEAKS Y FUGAS 2
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/bf77695a-9690-4780-a953-aef37d3db654)
 
@@ -305,6 +314,7 @@ Aquí hay más herramientas y servicios relacionados con la detección y verific
 - Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
 Estas herramientas son útiles para ayudar a los usuarios a proteger su información personal y su seguridad en línea al verificar si han sido afectados por filtraciones de datos
 # 🔗 9. EMAILS 
+-------------------------------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2a97bd56-6ef4-4f0a-9df1-8db3a86b6f2c)
 
@@ -347,7 +357,7 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 
   
 ### 9.5. Otras plataformas de búsqueda de emails:
--------------------------------
+-----------
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5db6076a-678f-4904-b0f3-5240b17744b8)
 
@@ -364,19 +374,27 @@ Detallamos cada una de estas plataformas, y cómo pueden ayudarnos en analísis,
 - seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
   
 # 🔗 10. Análisis de Cabeceras de Correo
+-------------------------------
+
 - Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
 - Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
 Algunas de estas herramientas incluyen:
 - toolbox.googleapps.com: Herramienta de Google para analizar encabezados de mensajes de correo electrónico.
 - mxtoolbox.com: Ofrece herramientas para el análisis de encabezados de correo electrónico y otras funciones de administración de correo.
 - email-analyze.activetk.jp: Plataforma para analizar encabezados de correo electrónico y obtener información útil sobre la entrega de mensajes.
+  
 # 🔗 11. Búsqueda Inversa - Geolocalización
+-------------------------------
+
 - Herramientas para determinar la ubicación geográfica de una imagen, incluso considerando la vegetación o la arquitectura presentes en la imagen.
 Algunas de estas herramientas son:
 - osm-search.bellingcat.com: Desarrollada por Bellingcat para buscar información geográfica utilizando OpenStreetMap como base, útil para investigaciones periodísticas y análisis de conflictos.
 - geospy.web.app: Determina la ubicación de una fotografía considerando la vegetación o la arquitectura presentes en la imagen.
 - geocreepy.com: Recopila información de ubicaciones geográficas a partir de redes sociales y servicios en línea, como Twitter, Instagram y Flickr, entre otros.
+  
 # 🔗 12. SOCK PUPPET Y HUELLA DIGITAL
+-------------------------------
+
 Para proteger la identidad del investigador al realizar investigaciones en fuentes abiertas, se utilizan diversas plataformas y herramientas online para anonimizar las actividades. Aquí se presentan algunas de estas herramientas:
 #### 12.1. Creación de Perfiles "Fake"
 - Namelix: Genera nombres de forma aleatoria para crear identidades falsas.
@@ -409,6 +427,8 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - Ahmia: Un motor de búsqueda que indexa contenido en la web oscura y anónima.
 
 # 🔗 13. THREAT INTELLIGENCE
+-------------------------------
+
 La inteligencia de amenazas, o "threat intelligence", es esencial en la ciberseguridad moderna, ya que implica recopilar, analizar y aplicar información sobre posibles amenazas y riesgos de seguridad. Este proceso ayuda a las organizaciones a anticipar, detectar y responder proactivamente a los ataques cibernéticos. Aquí hay algunas plataformas y herramientas en línea que facilitan este proceso:
 #### •	13.1. VirusTotal: 
 Una herramienta en línea gratuita que permite cargar archivos y URLs sospechosas para su análisis y escaneo con múltiples motores antivirus y otros servicios de seguridad. Proporciona informes detallados sobre los resultados del escaneo y qué motores antivirus detectaron posibles amenazas.
@@ -441,6 +461,8 @@ Ofrece información sobre actores de amenazas recopilada por la ETDA, una agenci
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
 # 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:
+-------------------------------
+
 En esta sección se presentan diversas herramientas online que pueden ser útiles en la vida diaria de un analista:
 ####       •	Thumbnail Save: 
 Permite ver y descargar imágenes de vista previa de miniaturas de YouTube.
@@ -484,6 +506,7 @@ Herramienta contra la desinformación de la IA para detectar deepfakes en audio 
 Sandbox para el análisis dinámico y la ejecución segura de archivos maliciosos y enlaces sospechosos.
 
 # 🔗 15 ALGUNAS HERRAMIENTAS LÍNEA DE COMANDOS:
+-------------------------------
 
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
 
