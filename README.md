@@ -305,7 +305,17 @@ Aquí hay más herramientas y servicios relacionados con la detección y verific
 - Proporciona recursos adicionales sobre seguridad cibernética y cómo responder a una violación de datos.
 Estas herramientas son útiles para ayudar a los usuarios a proteger su información personal y su seguridad en línea al verificar si han sido afectados por filtraciones de datos
 # 🔗 9. EMAILS 
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2a97bd56-6ef4-4f0a-9df1-8db3a86b6f2c)
+
 Aquí tienes más información sobre plataformas relacionadas con la gestión de correos electrónicos y la seguridad cibernética:
+
+- https://hunter.io
+- https://epieos.com
+- https://osint.industries
+- https://www.synapsint.com
+
+
 ### 9.1. hunter.io
 - Es una plataforma en línea que proporciona herramientas y servicios para buscar y verificar direcciones de correo electrónico.
 - Principalmente dirigida a profesionales de marketing, desarrolladores y equipos de ventas.
@@ -334,11 +344,19 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 - Extrae información veraz de fuentes como Shodan, VirusTotal y los Registros Regionales de Internet.
 - Ofrece una interfaz amigable que permite seleccionar el tipo de objetivo, como dominios, direcciones IP, teléfonos, cuentas de redes sociales, entre otros.
 - Proporciona información detallada sobre el objetivo seleccionado, lo que incluye datos relevantes para la investigación.
+
+  
 ### 9.5. Otras plataformas de búsqueda de emails:
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5db6076a-678f-4904-b0f3-5240b17744b8)
+
+https://gmail-osint.activetk.jp/ 			https://mailtester.com/en/ 	https://defastra.com/ 			       https://seon.io/es/  	
+
 - gmail-osint.activetk.jp: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico de Gmail.
 - mailtester.com: Ofrece herramientas para verificar la validez y la existencia de direcciones de correo electrónico.
 - defastra.com: Plataforma para buscar información y convertirla en inteligencia a través de herramientas online en fuentes abiertas.
 - seon.io: Proporciona herramientas para buscar información en fuentes abiertas relacionadas con direcciones de correo electrónico.
+  
 # 🔗 10. Análisis de Cabeceras de Correo
 - Varias herramientas que analizan los encabezados de los mensajes SMTP para identificar problemas de entrega y detectar configuraciones incorrectas de servidores.
 - Permiten detectar la IP del emisor, la autenticidad del correo electrónico y otros detalles.
