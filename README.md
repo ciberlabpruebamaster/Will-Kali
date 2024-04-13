@@ -446,7 +446,7 @@ Para proteger la identidad del investigador al realizar investigaciones en fuent
 - TempEmail: Genera direcciones de correo electrónico temporales para recibir mensajes.
 
 #### 12.5. Motores de Búsqueda
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/eac041be-3add-434b-a61c-07f9edd450b8)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/134a5be0-8dfc-487a-a9aa-c340acb42e7d)
 
 - Yahoo: Un motor de búsqueda generalista que proporciona resultados de una amplia gama de fuentes.
 - Ask: Ofrece resultados de búsqueda y respuestas a preguntas específicas.
