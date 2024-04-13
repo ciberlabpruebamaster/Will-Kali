@@ -170,7 +170,17 @@ Esta parte destaca una serie de herramientas en línea que son útiles para anal
 - Aunque útiles para compartir enlaces cortos, han sido utilizados con fines de phishing y rastreo de ubicación sin consentimiento, lo que ha generado preocupaciones sobre la privacidad de los usuarios en línea.
 
 # 🔗 4. WHOIS Y DOMINIOS
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/c6311e72-71ef-42a6-805f-823cd6c4c8a0)
+
 En esta sección, se presentan diversas herramientas y servicios en línea relacionados con la consulta de datos WHOIS para nombres de dominio y direcciones IP, así como otras funcionalidades relacionadas con la infraestructura de Internet y el análisis de amenazas. A continuación, se detallan las herramientas mencionadas:
+
+- https://whois.whoisxmlapi.com
+- https://whois.domaintools.com
+- https://www.whoxy.com
+- https://www.nslookup.io
+- https://www.onyphe.io
+
 ### 4.1. whois.whoisxmlapi.com
 - Proporciona acceso a datos de WHOIS para nombres de dominio y direcciones IP.
 - Permite buscar información sobre la titularidad de un nombre de dominio, incluyendo detalles sobre el registrante, la fecha de registro y vencimiento, servidores de nombres, información de contacto, entre otros.
