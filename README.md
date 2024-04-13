@@ -482,16 +482,16 @@ Desarrollada por PAN-Unit42, es una herramienta que permite explorar y aprender 
 Es una plataforma que ofrece servicios de investigación y análisis de direcciones IP y actividad en línea asociada. Permite buscar información sobre direcciones IP, analizar actividad en línea, acceder a inteligencia de amenazas y utilizarla en investigaciones forenses digitales.
 #### 13.9. DARKFEED: 
 Proporciona inteligencia de amenazas en tiempo real y feeds de datos relacionados con la ciberseguridad. Ofrece información sobre amenazas emergentes, actividad en la web oscura, análisis de tendencias, integraciones con herramientas de seguridad y alertas y notificaciones para mejorar la detección y respuesta a amenazas.
-#### •	13.10. SOCRADAR: 
+#### 13.10. SOCRADAR: 
 Es una plataforma de gestión de incidentes de seguridad cibernética y respuesta a incidentes. Ofrece detección de amenazas en tiempo real, análisis de seguridad automatizado, gestión de incidentes, integraciones con herramientas de seguridad y paneles de control y visualizaciones para supervisar el estado de seguridad de la organización.
-#### •	13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
-##         •	IPQualityScore: 
+#### 13.11. OTRAS PLATAFORMAS DE THREAT INTELLIGENCE:
+#### - IPQualityScore: 
 Herramienta de detección de fraude y amenazas cibernéticas con alta precisión. Ofrece servicios como evaluación de reputación de IP, detección de fraude en línea, protección contra ataques DDoS, validación de direcciones IP e integraciones con sistemas de seguridad.
-##         •	PolySwarm: 
+#### - PolySwarm: 
 Plataforma de ciberseguridad basada en blockchain que utiliza un mercado de seguridad descentralizado para colaborar en la detección y análisis de malware y amenazas cibernéticas. Ofrece un mercado descentralizado de seguridad, colaboración de la comunidad e integraciones con herramientas de seguridad.
-##         •	ETDA APT Encyclopedia: 
+#### - ETDA APT Encyclopedia: 
 Ofrece información sobre actores de amenazas recopilada por la ETDA, una agencia gubernamental de Tailandia encargada de regular la tecnología de la información y la comunicación (TIC).
-##         •	Intezer: 
+#### - Intezer: 
 Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de nivel 1 y clasificación autónoma para cada endpoint, phishing y alertas SIEM.
 
 # 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:
