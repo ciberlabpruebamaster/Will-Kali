@@ -1,6 +1,8 @@
 # Will-Kali
 Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada en Debian, enfocada en mejorar las habilidades OSINT para la investigación de personas, ofreciendo herramientas especializadas en recopilar y analizar información de fuentes abiertas.
-![imagen](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/09f031a3-92a7-4e28-a3bd-dd3be476e8bc)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/b0c44e18-4b6d-489c-a67b-b83432fb5c0c)
+
+
 # 🔗 1. NAVEGADORES WEB 🌐
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2e42736c-d997-4f9e-9a6c-a9f99bfc1260)
