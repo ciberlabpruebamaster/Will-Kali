@@ -357,7 +357,8 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 
   
 ### 9.5. Otras plataformas de búsqueda de emails:
------------
+
+<u>Otras plataformas de búsqueda de emails:</u>
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5db6076a-678f-4904-b0f3-5240b17744b8)
 
