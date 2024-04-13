@@ -627,6 +627,25 @@ Sandbox para el análisis dinámico y la ejecución segura de archivos malicioso
 
 En esta sección se presentan herramientas y programas que se utilizan mediante línea de comandos y que son fundamentales en el mundo de OSINT y la investigación:
 
+- https://github.com/kristuff/abuseipdb
+- https://github.com/rajkumardusad/IP-Tracer 
+- https://github.com/opsdisk/theHarvester
+- https://github.com/lanmaster53/recon-ng-marketplace
+- https://github.com/achillean/shodan-python
+- https://github.com/nmap/nmap
+- https://www.maltego.com/downloads/
+- https://github.com/exiftool/exiftool
+- https://github.com/opencubicles/h8mail
+- https://github.com/hlinconir/GhostTrack
+- https://github.com/XDeadHackerX/The_spy_job
+- https://github.com/b4rc0d37/PhoneFy
+- https://github.com/phodal/sherlock
+- https://github.com/hiddenillusion/IPinfo
+- https://github.com/i3visio/osrframework
+- https://github.com/smicallef/spiderfoot
+- https://github.com/megadose/holehe
+
+
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/107c0cc3-4a5c-4e46-9a57-322780f97a25)
 
 
