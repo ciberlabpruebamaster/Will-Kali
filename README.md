@@ -512,6 +512,7 @@ Ofrece automatización de investigaciones profundas impulsadas por IA, SOC de ni
 
 # 🔗 14. OTRAS HERRAMIENTAS DE INTERÉS:
 -------------------------------
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/97919f30-67bb-45cc-a316-ab60104ac851)
 
 En esta sección se presentan diversas herramientas online que pueden ser útiles en la vida diaria de un analista:
 ####       •	Thumbnail Save: 
