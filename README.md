@@ -18,7 +18,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 #### - 3º. Firefox.
 #### - 4º. Tor (imprescindible en DeepWeb).
 
-## 1.1. FIREFOX 🌐
+## 1.1. FIREFOX 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d1860bc9-3c89-4e9d-bbad-2a9d10be1904)
 
@@ -39,7 +39,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 -	Search by Image
 -	Hunter - Email Finder Extension
 
-## 1.2. BRAVE y CHROMIUM 🌐
+## 1.2. BRAVE y CHROMIUM 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/974a3f58-bc3b-4f6e-9f2f-09dbf3a40094)
 
@@ -67,7 +67,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 -	Alicent for ChatGPT 
 -	Url Shortener
 
-## 1.3. TorBrowser 🌐
+## 1.3. TorBrowser 
 
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/83759903-2808-4959-81d5-1d89944473fe)
 
