@@ -349,14 +349,14 @@ Estas plataformas son útiles para gestionar y proteger las comunicaciones por c
 - Presenta los datos de forma clara y concisa mediante gráficos interactivos, mapas geográficos y diagramas.
 - Ayuda a comprender mejor la información obtenida y detectar patrones o relaciones ocultas, facilitando el análisis.
 - Es especialmente útil para profesionales de la inteligencia abierta y para llevar a cabo investigaciones exhaustivas.
-### 9.4. synapsint.com
+### <span style="color:blue;">9.4. synapsint.com</span>
 - Una herramienta que recopila datos de un objetivo específico, como un dominio, una dirección IP o un correo electrónico, desde múltiples fuentes abiertas en Internet.
 - Extrae información veraz de fuentes como Shodan, VirusTotal y los Registros Regionales de Internet.
 - Ofrece una interfaz amigable que permite seleccionar el tipo de objetivo, como dominios, direcciones IP, teléfonos, cuentas de redes sociales, entre otros.
 - Proporciona información detallada sobre el objetivo seleccionado, lo que incluye datos relevantes para la investigación.
 
   
-### <span style="text-decoration: underline;">9.5. Otras plataformas de búsqueda de emails:</span>
+### 9.5. Otras plataformas de búsqueda de emails:
 
 Otras plataformas de búsqueda de emails:
 
