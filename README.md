@@ -2,7 +2,8 @@
 Will-kali es una distribución personalizada de Kali Linux en VMware 17, basada en Debian, enfocada en mejorar las habilidades OSINT para la investigación de personas, ofreciendo herramientas especializadas en recopilar y analizar información de fuentes abiertas.
 ![imagen](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/09f031a3-92a7-4e28-a3bd-dd3be476e8bc)
 # 🔗 1. NAVEGADORES WEB 🌐
-![2](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1fb44977-02e7-4c63-aa60-b1cd80390ecd)
+
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/2e42736c-d997-4f9e-9a6c-a9f99bfc1260)
 
 Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. Para mí, por orden de importancia y funcionamiento:
 
@@ -13,7 +14,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 
 ## 1.1. FIREFOX 
 
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/5806a5e4-65c7-4363-8f96-68a0793e2814)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/d1860bc9-3c89-4e9d-bbad-2a9d10be1904)
 
 
 🧩 Importante destacar las extensiones que se usan en este NAVEGADOR: 
@@ -34,8 +35,8 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 
 ## 1.2. BRAVE y CHROMIUM
 
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1d78842a-190b-4a77-8885-16b78c6a19f3)
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/14dc0b83-d4f2-4e2d-8060-0c069f92c49a)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/974a3f58-bc3b-4f6e-9f2f-09dbf3a40094)
+
 
 🧩 Estos 2 NAVEGADORES, al estar ambos basados en tecnología muy similar, comparten idénticas extensiones: 
 
@@ -62,7 +63,7 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 
 ## 1.3. TorBrowser
 
-![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/cbaeca5f-bd72-4975-8037-9db29da0d6da)
+![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/83759903-2808-4959-81d5-1d89944473fe)
 
 En TorBrowser, no se admiten extensiones para preservar el anonimato y la privacidad, ya que su uso podría comprometer estas características fundamentales. No son necesarias de hecho.
 
