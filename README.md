@@ -37,11 +37,12 @@ Will Kali cuenta con 4 navegadores imprescindindibles para cualquier analista. P
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1d78842a-190b-4a77-8885-16b78c6a19f3)
 ![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/14dc0b83-d4f2-4e2d-8060-0c069f92c49a)
 
-|                                      ![Dashboard Sample 1](https://github.com/GONZOsint/FEAT/blob/main/assets/FEAT_sample1.png?raw=true)                                      |
+|                                      ![Dashboard Sample 1]![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/1d78842a-190b-4a77-8885-16b78c6a19f3)                                      |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                                       **Fig 1. Search**                                                                          |
 
-| ![Dashboard Sample 2](https://github.com/GONZOsint/FEAT/blob/main/assets/FEAT_sample2.png?raw=true) | ![Dashboard Sample 3](https://github.com/GONZOsint/FEAT/blob/main/assets/FEAT_sample3.png?raw=true) |
+| ![Dashboard Sample 2]![image](https://github.com/ciberlabpruebamaster/Will-Kali/assets/165423933/14dc0b83-d4f2-4e2d-8060-0c069f92c49a)
+ |
 |:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |                              **Fig 1. Verdict Distribution and Tags Volume**                                       |                               **Fig 2. Claims Timeline and  Source Volume**                 
 
